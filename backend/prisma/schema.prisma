@@ -1,0 +1,25 @@
+generator client {
+  provider = "prisma-client"
+  output   = "../generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model Rating {
+  id     Int @id @default(autoincrement())
+  pg_id  Int
+  rating Int
+
+  @@map("ratings")
+}
+
+model Review {
+  id              Int     @id @default(autoincrement())
+  pg_id           Int
+  review_text     String
+  sentiment_score Float
+
+  @@map("reviews")
+}

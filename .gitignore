@@ -1,0 +1,29 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Build files
+dist/
+build/
+
+# macOS
+.DS_Store
+
+# Generated output
+output/recommendations.csv
+
+# IDE
+.vscode/
+.idea/

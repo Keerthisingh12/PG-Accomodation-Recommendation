@@ -1,0 +1,1001 @@
+PG_ID,Location,Latitude,Longitude,Distance_From_Center_KM,Rent,Sharing,Gender,Meals_Per_Day,Weekend_Food,WiFi,AC,Laundry,Parking,Housekeeping,Lift,Security,CCTV,Power_Backup,Drinking_Water,Floors,Food_Type,Pets_Allowed,Visitors_Allowed,Smoking_Area,Curfew_Time,Available_From,Availability
+1,vidyaranyapura,13.08,77.55,7.22,7174,Triple,Boys,2,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,4,Both,No,Yes,No,10:00 PM,21-04-2026,Available
+2,vidyaranyapura,13.08,77.55,7.22,10555,Double,Girls,3,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,4,Veg,No,Yes,No,10:00 PM,11-05-2026,Available
+3,bagalur,13.12,77.65,11.12,8888,Double,Boys,3,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Yes,1,Both,Yes,No,Yes,No Curfew,26-04-2026,Available
+4,jakkur,13.08,77.6,5.01,8613,Double,Boys,2,No,Yes,No,No,No,No,No,No,Yes,Yes,Yes,5,Both,No,Yes,No,9:00 PM,16-05-2026,Full
+5,kammanahalli,13.02,77.635,4.53,10859,Double,Boys,3,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,3,Both,No,Yes,Yes,10:00 PM,29-04-2026,Full
+6,yelahanka,13.1,77.596,7.22,7099,Triple,Boys,3,No,No,No,Yes,No,No,No,No,No,No,Yes,3,Non-Veg,No,Yes,No,9:00 PM,27-04-2026,Full
+7,thanisandra,13.05,77.62,3.05,15938,Single,Girls,2,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,3,Non-Veg,Yes,No,No,9:00 PM,09-05-2026,Full
+8,vidyaranyapura,13.08,77.55,7.22,12157,Single,Boys,2,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,1,Veg,Yes,No,Yes,No Curfew,03-05-2026,Full
+9,sahakar nagar,13.06,77.58,3.36,11864,Double,Co-ed,3,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,1,Non-Veg,Yes,Yes,No,11:00 PM,23-04-2026,Full
+10,jakkur,13.08,77.6,5.01,16280,Single,Co-ed,2,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,4,Both,Yes,Yes,Yes,9:00 PM,26-04-2026,Available
+11,horamavu,13.03,77.67,8.12,11327,Single,Co-ed,2,Yes,No,Yes,No,No,Yes,No,No,No,Yes,Yes,2,Veg,No,Yes,No,No Curfew,10-05-2026,Full
+12,vidyaranyapura,13.08,77.55,7.22,4488,Triple,Co-ed,2,No,No,No,Yes,No,Yes,No,No,No,No,Yes,1,Veg,No,Yes,No,No Curfew,20-05-2026,Available
+13,kodigehalli,13.07,77.58,4.32,13548,Single,Boys,2,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,4,Non-Veg,No,Yes,No,10:00 PM,15-05-2026,Full
+14,vidyaranyapura,13.08,77.55,7.22,11961,Single,Co-ed,2,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,1,Veg,No,Yes,No,9:00 PM,12-05-2026,Full
+15,nagawara,13.04,77.62,2.61,7446,Triple,Girls,3,Yes,No,No,No,No,No,No,No,No,No,Yes,3,Both,No,No,Yes,9:00 PM,02-05-2026,Full
+16,kammanahalli,13.02,77.635,4.53,7243,Double,Boys,2,No,Yes,No,No,No,No,No,No,No,Yes,Yes,1,Veg,No,Yes,No,11:00 PM,12-05-2026,Available
+17,bagalur,13.12,77.65,11.12,6569,Double,Co-ed,2,No,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,5,Non-Veg,Yes,Yes,Yes,9:00 PM,14-05-2026,Full
+18,rt nagar,13.022,77.594,1.48,4524,Triple,Girls,3,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,3,Veg,No,Yes,Yes,10:00 PM,16-05-2026,Available
+19,horamavu,13.03,77.67,8.12,16509,Single,Co-ed,2,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,3,Non-Veg,No,No,No,No Curfew,18-05-2026,Available
+20,thanisandra,13.05,77.62,3.05,11225,Double,Co-ed,2,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,1,Non-Veg,No,Yes,Yes,10:00 PM,15-05-2026,Full
+21,thanisandra,13.05,77.62,3.05,4487,Triple,Co-ed,2,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,4,Veg,Yes,Yes,No,10:00 PM,10-05-2026,Available
+22,sahakar nagar,13.06,77.58,3.36,4452,Triple,Co-ed,2,No,Yes,No,No,No,No,No,No,No,Yes,Yes,2,Both,No,Yes,No,10:00 PM,03-05-2026,Full
+23,thanisandra,13.05,77.62,3.05,4515,Triple,Co-ed,3,No,No,No,No,No,No,No,No,Yes,No,Yes,4,Both,No,No,No,No Curfew,02-05-2026,Available
+24,kothanur,13.06,77.65,6.5,13380,Single,Co-ed,2,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,4,Veg,No,Yes,No,9:00 PM,14-05-2026,Full
+25,thanisandra,13.05,77.62,3.05,6728,Double,Boys,3,No,Yes,Yes,No,No,No,No,No,No,No,No,5,Both,Yes,No,No,10:00 PM,23-04-2026,Available
+26,hennur,13.05,77.64,5.06,13968,Single,Girls,2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,4,Both,No,No,No,10:00 PM,23-04-2026,Available
+27,sahakar nagar,13.06,77.58,3.36,10491,Double,Girls,3,Yes,No,No,No,No,Yes,No,Yes,No,No,Yes,3,Both,No,No,No,10:00 PM,16-05-2026,Available
+28,hennur,13.05,77.64,5.06,6539,Triple,Girls,2,No,No,No,Yes,No,No,Yes,No,Yes,No,Yes,4,Both,Yes,No,No,11:00 PM,24-04-2026,Available
+29,horamavu,13.03,77.67,8.12,7141,Triple,Girls,3,No,No,No,No,No,No,No,Yes,No,No,Yes,5,Both,No,No,No,No Curfew,18-05-2026,Available
+30,horamavu,13.03,77.67,8.12,10285,Double,Boys,2,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,4,Both,Yes,Yes,No,11:00 PM,08-05-2026,Available
+31,rt nagar,13.022,77.594,1.48,7256,Double,Boys,3,Yes,Yes,No,No,No,No,No,No,Yes,No,Yes,5,Non-Veg,Yes,Yes,No,11:00 PM,16-05-2026,Full
+32,yelahanka,13.1,77.596,7.22,6539,Double,Boys,2,Yes,No,No,No,No,No,No,No,Yes,No,Yes,2,Non-Veg,No,Yes,No,11:00 PM,30-04-2026,Available
+33,jakkur,13.08,77.6,5.01,8871,Double,Co-ed,3,No,No,Yes,No,No,No,No,Yes,No,No,Yes,1,Both,No,Yes,No,11:00 PM,21-04-2026,Available
+34,yelahanka,13.1,77.596,7.22,4404,Triple,Boys,2,Yes,No,No,No,No,No,No,No,No,No,Yes,1,Veg,No,No,Yes,11:00 PM,07-05-2026,Full
+35,vidyaranyapura,13.08,77.55,7.22,10583,Double,Boys,2,No,Yes,Yes,No,No,No,No,No,No,No,Yes,1,Non-Veg,No,Yes,No,9:00 PM,25-04-2026,Available
+36,horamavu,13.03,77.67,8.12,15996,Single,Girls,3,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,1,Both,No,Yes,No,9:00 PM,09-05-2026,Available
+37,kodigehalli,13.07,77.58,4.32,19320,Single,Girls,2,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,3,Non-Veg,No,Yes,No,11:00 PM,01-05-2026,Full
+38,bagalur,13.12,77.65,11.12,7445,Triple,Co-ed,2,No,Yes,No,No,No,No,No,No,Yes,No,Yes,2,Both,Yes,Yes,Yes,10:00 PM,29-04-2026,Full
+39,kalyan nagar,13.025,77.64,4.9,4523,Triple,Girls,3,Yes,No,No,No,Yes,No,No,Yes,No,No,Yes,2,Both,No,Yes,No,11:00 PM,10-05-2026,Available
+40,kammanahalli,13.02,77.635,4.53,6766,Triple,Co-ed,2,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,3,Veg,No,Yes,No,No Curfew,23-04-2026,Available
+41,kammanahalli,13.02,77.635,4.53,10906,Single,Girls,2,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,3,Non-Veg,No,Yes,No,10:00 PM,12-05-2026,Available
+42,rt nagar,13.022,77.594,1.48,16943,Single,Girls,2,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,5,Veg,Yes,Yes,Yes,11:00 PM,01-05-2026,Available
+43,jakkur,13.08,77.6,5.01,7517,Triple,Co-ed,3,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Yes,1,Veg,No,No,No,11:00 PM,22-04-2026,Full
+44,jakkur,13.08,77.6,5.01,9846,Single,Boys,2,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes,5,Both,No,No,Yes,No Curfew,23-04-2026,Full
+45,thanisandra,13.05,77.62,3.05,7744,Triple,Boys,3,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,3,Non-Veg,No,No,No,9:00 PM,02-05-2026,Full
+46,sahakar nagar,13.06,77.58,3.36,19161,Single,Co-ed,3,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,3,Veg,Yes,No,No,10:00 PM,16-05-2026,Available
+47,kammanahalli,13.02,77.635,4.53,6621,Triple,Boys,3,No,No,No,No,No,No,No,Yes,No,No,Yes,1,Non-Veg,No,Yes,Yes,10:00 PM,28-04-2026,Available
+48,thanisandra,13.05,77.62,3.05,7110,Triple,Boys,2,Yes,No,No,No,Yes,No,No,No,No,No,Yes,1,Non-Veg,No,No,Yes,No Curfew,24-04-2026,Available
+49,yelahanka,13.1,77.596,7.22,11645,Single,Co-ed,2,No,Yes,No,Yes,No,No,No,No,Yes,No,Yes,4,Non-Veg,No,No,No,11:00 PM,09-05-2026,Full
+50,kalyan nagar,13.025,77.64,4.9,5955,Triple,Co-ed,2,No,Yes,No,Yes,No,No,No,No,No,Yes,Yes,2,Non-Veg,No,Yes,No,11:00 PM,02-05-2026,Full
+51,kodigehalli,13.07,77.58,4.32,10451,Double,Boys,3,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,1,Both,Yes,No,No,9:00 PM,12-05-2026,Full
+52,sahakar nagar,13.06,77.58,3.36,7030,Triple,Girls,3,No,No,No,No,No,Yes,No,No,Yes,No,Yes,1,Non-Veg,No,No,No,11:00 PM,17-05-2026,Full
+53,sahakar nagar,13.06,77.58,3.36,6417,Double,Girls,2,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,2,Veg,Yes,No,Yes,9:00 PM,10-05-2026,Available
+54,thanisandra,13.05,77.62,3.05,9432,Double,Co-ed,3,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,5,Non-Veg,No,Yes,No,11:00 PM,09-05-2026,Available
+55,bagalur,13.12,77.65,11.12,6065,Triple,Boys,2,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,2,Veg,Yes,No,No,10:00 PM,13-05-2026,Available
+56,hebbal,13.035,77.597,0,4054,Triple,Co-ed,3,Yes,No,No,Yes,No,No,No,Yes,Yes,No,Yes,1,Both,No,No,No,10:00 PM,14-05-2026,Full
+57,horamavu,13.03,77.67,8.12,18503,Single,Girls,3,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,5,Both,No,No,No,No Curfew,21-04-2026,Full
+58,jakkur,13.08,77.6,5.01,9594,Double,Boys,3,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,1,Both,No,Yes,No,9:00 PM,07-05-2026,Full
+59,kothanur,13.06,77.65,6.5,9953,Double,Boys,3,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Yes,3,Both,No,Yes,No,No Curfew,29-04-2026,Available
+60,nagawara,13.04,77.62,2.61,19273,Single,Co-ed,3,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,2,Both,No,Yes,Yes,10:00 PM,16-05-2026,Full
+61,kammanahalli,13.02,77.635,4.53,12629,Single,Co-ed,2,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,3,Non-Veg,No,Yes,No,No Curfew,12-05-2026,Full
+62,kodigehalli,13.07,77.58,4.32,6116,Triple,Boys,2,No,Yes,No,Yes,No,No,No,Yes,No,No,Yes,1,Non-Veg,No,No,No,11:00 PM,15-05-2026,Full
+63,bagalur,13.12,77.65,11.12,11158,Double,Co-ed,3,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,1,Veg,Yes,Yes,No,10:00 PM,28-04-2026,Full
+64,hennur,13.05,77.64,5.06,10062,Double,Girls,2,No,No,No,No,Yes,No,Yes,No,No,Yes,Yes,1,Veg,Yes,Yes,No,9:00 PM,04-05-2026,Available
+65,horamavu,13.03,77.67,8.12,13430,Single,Girls,3,No,Yes,No,No,No,No,No,No,Yes,No,Yes,3,Both,No,Yes,No,11:00 PM,01-05-2026,Available
+66,vidyaranyapura,13.08,77.55,7.22,11983,Single,Girls,3,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,3,Both,No,Yes,No,10:00 PM,03-05-2026,Available
+67,sahakar nagar,13.06,77.58,3.36,12810,Single,Boys,3,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,4,Both,No,Yes,Yes,11:00 PM,04-05-2026,Full
+68,kodigehalli,13.07,77.58,4.32,6375,Double,Girls,2,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,5,Non-Veg,Yes,Yes,No,No Curfew,04-05-2026,Full
+69,yelahanka,13.1,77.596,7.22,9415,Double,Girls,3,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Yes,2,Veg,Yes,No,No,No Curfew,25-04-2026,Full
+70,kodigehalli,13.07,77.58,4.32,5796,Triple,Boys,2,No,Yes,No,No,No,No,No,No,No,No,Yes,5,Non-Veg,Yes,Yes,No,9:00 PM,04-05-2026,Full
+71,jakkur,13.08,77.6,5.01,10380,Single,Girls,3,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,4,Non-Veg,No,Yes,No,No Curfew,16-05-2026,Available
+72,kodigehalli,13.07,77.58,4.32,4913,Triple,Co-ed,3,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,3,Both,No,No,No,9:00 PM,06-05-2026,Full
+73,kammanahalli,13.02,77.635,4.53,7239,Triple,Girls,3,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,1,Non-Veg,Yes,No,Yes,10:00 PM,01-05-2026,Full
+74,horamavu,13.03,77.67,8.12,9508,Double,Boys,2,No,Yes,No,No,No,Yes,No,No,No,No,Yes,4,Veg,Yes,No,Yes,10:00 PM,09-05-2026,Available
+75,yelahanka,13.1,77.596,7.22,6461,Triple,Boys,3,Yes,No,No,No,No,No,No,Yes,No,No,Yes,4,Non-Veg,Yes,Yes,Yes,11:00 PM,16-05-2026,Full
+76,hennur,13.05,77.64,5.06,15353,Single,Co-ed,2,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,2,Veg,Yes,Yes,No,11:00 PM,24-04-2026,Available
+77,thanisandra,13.05,77.62,3.05,16266,Single,Girls,2,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,4,Non-Veg,No,No,No,11:00 PM,10-05-2026,Available
+78,nagawara,13.04,77.62,2.61,10682,Single,Co-ed,2,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,4,Veg,Yes,No,No,11:00 PM,05-05-2026,Full
+79,hennur,13.05,77.64,5.06,7050,Double,Boys,2,No,No,No,Yes,Yes,No,No,No,No,Yes,Yes,4,Both,Yes,Yes,Yes,10:00 PM,18-05-2026,Full
+80,yelahanka,13.1,77.596,7.22,14109,Single,Co-ed,2,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,1,Non-Veg,No,No,Yes,9:00 PM,12-05-2026,Available
+81,kalyan nagar,13.025,77.64,4.9,7762,Triple,Girls,3,Yes,Yes,No,Yes,No,No,No,No,Yes,No,Yes,1,Non-Veg,No,Yes,No,10:00 PM,16-05-2026,Available
+82,kalyan nagar,13.025,77.64,4.9,4917,Triple,Co-ed,3,No,No,No,No,No,Yes,No,No,Yes,No,Yes,1,Non-Veg,Yes,Yes,No,11:00 PM,28-04-2026,Available
+83,vidyaranyapura,13.08,77.55,7.22,7911,Triple,Boys,2,No,No,No,No,Yes,No,No,No,No,No,Yes,2,Non-Veg,No,No,No,9:00 PM,02-05-2026,Full
+84,rt nagar,13.022,77.594,1.48,8956,Double,Girls,3,No,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,5,Veg,No,No,No,11:00 PM,30-04-2026,Full
+85,kodigehalli,13.07,77.58,4.32,17946,Single,Boys,2,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,4,Non-Veg,No,Yes,No,No Curfew,29-04-2026,Full
+86,kammanahalli,13.02,77.635,4.53,15563,Single,Boys,2,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,5,Veg,No,Yes,No,No Curfew,06-05-2026,Available
+87,hennur,13.05,77.64,5.06,4477,Triple,Girls,3,Yes,No,No,No,No,No,No,No,No,No,Yes,2,Non-Veg,Yes,No,Yes,11:00 PM,18-05-2026,Full
+88,hennur,13.05,77.64,5.06,8113,Double,Co-ed,3,No,Yes,No,No,No,Yes,No,No,No,No,Yes,4,Both,No,Yes,Yes,No Curfew,01-05-2026,Full
+89,nagawara,13.04,77.62,2.61,16115,Single,Boys,3,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,4,Veg,No,Yes,No,10:00 PM,29-04-2026,Available
+90,hebbal,13.035,77.597,0,7316,Double,Boys,2,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,3,Non-Veg,Yes,Yes,No,9:00 PM,27-04-2026,Available
+91,rt nagar,13.022,77.594,1.48,5246,Triple,Girls,2,Yes,No,No,No,Yes,Yes,No,No,No,Yes,Yes,5,Non-Veg,No,No,Yes,10:00 PM,22-04-2026,Full
+92,yelahanka,13.1,77.596,7.22,11238,Double,Boys,3,No,No,No,No,No,No,Yes,No,No,No,Yes,5,Non-Veg,No,Yes,Yes,11:00 PM,22-04-2026,Full
+93,sahakar nagar,13.06,77.58,3.36,5009,Triple,Boys,2,No,No,No,No,No,Yes,No,Yes,No,No,No,3,Veg,No,No,No,9:00 PM,09-05-2026,Full
+94,jakkur,13.08,77.6,5.01,5388,Triple,Boys,2,No,Yes,No,Yes,No,No,No,No,No,No,Yes,1,Veg,No,Yes,No,11:00 PM,28-04-2026,Full
+95,bagalur,13.12,77.65,11.12,8889,Double,Boys,2,No,No,No,No,No,No,No,Yes,Yes,No,Yes,4,Veg,No,No,No,9:00 PM,08-05-2026,Full
+96,nagawara,13.04,77.62,2.61,8411,Double,Co-ed,3,No,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,2,Non-Veg,Yes,No,No,11:00 PM,04-05-2026,Available
+97,rt nagar,13.022,77.594,1.48,12610,Single,Girls,2,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,5,Both,Yes,Yes,No,No Curfew,19-05-2026,Available
+98,yelahanka,13.1,77.596,7.22,6345,Triple,Girls,2,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes,2,Veg,Yes,No,No,10:00 PM,19-05-2026,Available
+99,yelahanka,13.1,77.596,7.22,6729,Triple,Boys,3,No,No,Yes,No,No,No,No,No,Yes,No,Yes,2,Both,Yes,Yes,No,11:00 PM,21-04-2026,Full
+100,kammanahalli,13.02,77.635,4.53,4630,Triple,Boys,2,No,Yes,No,No,No,No,No,No,Yes,Yes,Yes,5,Veg,No,Yes,No,10:00 PM,29-04-2026,Full
+101,nagawara,13.04,77.62,2.61,11094,Double,Co-ed,2,Yes,No,No,Yes,No,No,Yes,No,No,No,Yes,1,Non-Veg,No,Yes,No,10:00 PM,18-05-2026,Available
+102,horamavu,13.03,77.67,8.12,8564,Double,Co-ed,3,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,3,Veg,No,Yes,Yes,9:00 PM,02-05-2026,Available
+103,sahakar nagar,13.06,77.58,3.36,11561,Double,Co-ed,3,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,5,Veg,Yes,No,Yes,No Curfew,10-05-2026,Available
+104,kalyan nagar,13.025,77.64,4.9,17555,Single,Girls,3,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,2,Veg,No,Yes,Yes,9:00 PM,15-05-2026,Available
+105,thanisandra,13.05,77.62,3.05,8496,Double,Boys,3,Yes,Yes,No,No,No,No,No,No,No,Yes,No,2,Non-Veg,No,No,No,11:00 PM,30-04-2026,Full
+106,yelahanka,13.1,77.596,7.22,11789,Double,Boys,3,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,2,Non-Veg,Yes,No,No,9:00 PM,04-05-2026,Available
+107,bagalur,13.12,77.65,11.12,7133,Double,Co-ed,2,No,No,No,No,No,No,Yes,No,No,Yes,Yes,4,Non-Veg,No,Yes,Yes,No Curfew,04-05-2026,Available
+108,yelahanka,13.1,77.596,7.22,14777,Single,Co-ed,2,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,2,Non-Veg,Yes,No,No,9:00 PM,09-05-2026,Full
+109,bagalur,13.12,77.65,11.12,9976,Double,Girls,2,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,4,Veg,No,No,No,No Curfew,25-04-2026,Full
+110,bagalur,13.12,77.65,11.12,16870,Single,Boys,3,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,5,Veg,No,Yes,No,No Curfew,21-04-2026,Available
+111,hebbal,13.035,77.597,0,15356,Single,Girls,3,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Non-Veg,No,Yes,No,No Curfew,23-04-2026,Full
+112,kodigehalli,13.07,77.58,4.32,18651,Single,Co-ed,3,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,4,Both,No,No,No,10:00 PM,28-04-2026,Available
+113,rt nagar,13.022,77.594,1.48,6773,Triple,Boys,3,No,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,5,Non-Veg,No,Yes,Yes,9:00 PM,10-05-2026,Full
+114,kodigehalli,13.07,77.58,4.32,15420,Single,Girls,3,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,2,Non-Veg,Yes,Yes,No,11:00 PM,28-04-2026,Full
+115,bagalur,13.12,77.65,11.12,9839,Double,Girls,3,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,4,Non-Veg,Yes,No,No,11:00 PM,11-05-2026,Available
+116,rt nagar,13.022,77.594,1.48,15303,Single,Boys,3,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,4,Both,Yes,Yes,Yes,No Curfew,04-05-2026,Available
+117,rt nagar,13.022,77.594,1.48,11160,Single,Co-ed,3,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,4,Veg,Yes,Yes,No,No Curfew,15-05-2026,Full
+118,hebbal,13.035,77.597,0,8581,Double,Co-ed,3,No,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,1,Non-Veg,No,Yes,No,No Curfew,19-05-2026,Available
+119,rt nagar,13.022,77.594,1.48,14926,Single,Girls,2,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,2,Veg,Yes,Yes,No,No Curfew,27-04-2026,Full
+120,hebbal,13.035,77.597,0,5754,Triple,Co-ed,3,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,3,Veg,No,No,No,9:00 PM,09-05-2026,Full
+121,yelahanka,13.1,77.596,7.22,5124,Triple,Boys,2,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,4,Both,No,Yes,No,10:00 PM,24-04-2026,Available
+122,hennur,13.05,77.64,5.06,9292,Double,Girls,3,No,Yes,No,No,No,No,No,No,Yes,No,Yes,3,Non-Veg,Yes,Yes,No,No Curfew,26-04-2026,Available
+123,hebbal,13.035,77.597,0,11236,Double,Girls,3,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,4,Non-Veg,Yes,Yes,No,9:00 PM,10-05-2026,Available
+124,vidyaranyapura,13.08,77.55,7.22,5775,Triple,Girls,3,Yes,No,No,No,No,No,No,No,No,Yes,Yes,5,Non-Veg,No,No,No,No Curfew,09-05-2026,Full
+125,horamavu,13.03,77.67,8.12,10449,Single,Girls,2,No,Yes,Yes,No,No,No,No,No,No,Yes,No,3,Both,No,No,No,No Curfew,12-05-2026,Available
+126,hebbal,13.035,77.597,0,4685,Triple,Girls,3,No,Yes,No,No,No,Yes,Yes,No,No,No,No,2,Veg,Yes,No,No,11:00 PM,03-05-2026,Full
+127,vidyaranyapura,13.08,77.55,7.22,6581,Double,Boys,2,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Yes,3,Both,No,Yes,No,9:00 PM,30-04-2026,Available
+128,kalyan nagar,13.025,77.64,4.9,11539,Single,Co-ed,3,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,5,Both,Yes,Yes,Yes,9:00 PM,30-04-2026,Full
+129,rt nagar,13.022,77.594,1.48,6597,Double,Girls,3,No,No,Yes,No,No,Yes,No,No,Yes,No,Yes,5,Non-Veg,Yes,No,Yes,No Curfew,30-04-2026,Available
+130,rt nagar,13.022,77.594,1.48,4097,Triple,Girls,2,No,No,No,No,No,Yes,No,No,No,No,Yes,5,Both,Yes,Yes,No,11:00 PM,12-05-2026,Full
+131,yelahanka,13.1,77.596,7.22,11774,Double,Co-ed,3,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,4,Veg,No,Yes,Yes,9:00 PM,10-05-2026,Available
+132,hebbal,13.035,77.597,0,5814,Triple,Boys,2,No,No,No,No,No,No,No,No,No,No,Yes,2,Veg,Yes,No,No,No Curfew,27-04-2026,Full
+133,nagawara,13.04,77.62,2.61,13943,Single,Co-ed,3,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,3,Veg,No,No,No,9:00 PM,06-05-2026,Available
+134,kammanahalli,13.02,77.635,4.53,14248,Single,Boys,2,Yes,No,No,No,Yes,No,No,Yes,Yes,No,Yes,1,Both,No,Yes,Yes,9:00 PM,23-04-2026,Available
+135,sahakar nagar,13.06,77.58,3.36,9547,Double,Co-ed,3,No,No,No,No,No,No,No,Yes,Yes,No,Yes,4,Veg,No,Yes,Yes,No Curfew,16-05-2026,Full
+136,sahakar nagar,13.06,77.58,3.36,17381,Single,Girls,2,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,3,Both,No,Yes,No,No Curfew,22-04-2026,Full
+137,rt nagar,13.022,77.594,1.48,13578,Single,Co-ed,3,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,5,Both,Yes,Yes,No,11:00 PM,04-05-2026,Full
+138,horamavu,13.03,77.67,8.12,6019,Triple,Co-ed,3,No,No,No,No,No,No,No,No,Yes,No,Yes,4,Non-Veg,No,Yes,No,11:00 PM,04-05-2026,Available
+139,yelahanka,13.1,77.596,7.22,11626,Double,Girls,2,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,1,Veg,No,No,Yes,10:00 PM,05-05-2026,Available
+140,jakkur,13.08,77.6,5.01,10493,Double,Boys,3,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,1,Veg,Yes,No,No,9:00 PM,29-04-2026,Available
+141,horamavu,13.03,77.67,8.12,16804,Single,Co-ed,2,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,5,Veg,Yes,Yes,No,9:00 PM,11-05-2026,Available
+142,bagalur,13.12,77.65,11.12,8044,Double,Girls,2,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,3,Non-Veg,No,Yes,No,9:00 PM,09-05-2026,Full
+143,kothanur,13.06,77.65,6.5,7573,Double,Boys,3,No,No,Yes,No,Yes,No,No,No,No,No,Yes,1,Both,Yes,Yes,No,No Curfew,08-05-2026,Available
+144,hebbal,13.035,77.597,0,5936,Triple,Girls,2,Yes,No,No,No,No,No,No,No,No,No,Yes,1,Both,No,Yes,Yes,10:00 PM,20-05-2026,Full
+145,bagalur,13.12,77.65,11.12,7159,Double,Co-ed,3,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,5,Non-Veg,No,Yes,No,9:00 PM,03-05-2026,Full
+146,nagawara,13.04,77.62,2.61,14823,Single,Boys,2,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,5,Both,No,No,No,10:00 PM,15-05-2026,Full
+147,hennur,13.05,77.64,5.06,17365,Single,Girls,3,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,4,Veg,No,Yes,Yes,9:00 PM,29-04-2026,Available
+148,vidyaranyapura,13.08,77.55,7.22,5793,Triple,Boys,3,No,No,No,No,Yes,No,No,No,No,No,Yes,2,Veg,No,No,No,No Curfew,22-04-2026,Available
+149,thanisandra,13.05,77.62,3.05,11200,Double,Co-ed,2,No,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,5,Veg,No,Yes,No,9:00 PM,13-05-2026,Full
+150,nagawara,13.04,77.62,2.61,6120,Triple,Girls,2,No,No,No,No,No,No,No,No,No,No,Yes,1,Non-Veg,Yes,Yes,No,11:00 PM,22-04-2026,Available
+151,bagalur,13.12,77.65,11.12,15583,Single,Boys,3,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,3,Non-Veg,No,No,No,10:00 PM,22-04-2026,Full
+152,nagawara,13.04,77.62,2.61,12699,Single,Girls,3,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,3,Veg,No,Yes,Yes,No Curfew,17-05-2026,Available
+153,hennur,13.05,77.64,5.06,6910,Double,Boys,3,No,Yes,No,No,No,No,No,No,No,Yes,Yes,4,Veg,Yes,No,No,10:00 PM,25-04-2026,Full
+154,kalyan nagar,13.025,77.64,4.9,7236,Triple,Co-ed,2,No,No,Yes,Yes,No,No,No,No,Yes,No,Yes,5,Non-Veg,No,Yes,Yes,11:00 PM,18-05-2026,Full
+155,kammanahalli,13.02,77.635,4.53,5982,Triple,Co-ed,2,Yes,No,No,No,No,No,No,No,No,No,Yes,5,Non-Veg,Yes,No,No,11:00 PM,12-05-2026,Available
+156,sahakar nagar,13.06,77.58,3.36,12730,Single,Boys,2,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,2,Non-Veg,No,Yes,No,10:00 PM,06-05-2026,Available
+157,hebbal,13.035,77.597,0,6667,Triple,Boys,3,No,No,No,No,No,No,No,No,No,No,Yes,3,Both,No,Yes,No,11:00 PM,05-05-2026,Full
+158,thanisandra,13.05,77.62,3.05,6046,Triple,Girls,2,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,5,Both,No,No,No,10:00 PM,06-05-2026,Available
+159,nagawara,13.04,77.62,2.61,5137,Triple,Co-ed,3,No,No,No,No,No,No,No,No,No,No,No,3,Non-Veg,No,No,No,11:00 PM,27-04-2026,Full
+160,nagawara,13.04,77.62,2.61,6541,Double,Girls,3,Yes,No,No,No,Yes,No,No,No,No,No,Yes,1,Non-Veg,No,Yes,No,11:00 PM,26-04-2026,Available
+161,sahakar nagar,13.06,77.58,3.36,7098,Double,Co-ed,3,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,4,Veg,Yes,No,No,No Curfew,18-05-2026,Available
+162,sahakar nagar,13.06,77.58,3.36,11409,Double,Boys,2,Yes,No,No,No,No,Yes,No,Yes,No,No,Yes,5,Both,No,No,Yes,10:00 PM,13-05-2026,Full
+163,nagawara,13.04,77.62,2.61,16190,Single,Girls,2,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,4,Veg,Yes,No,Yes,10:00 PM,13-05-2026,Full
+164,bagalur,13.12,77.65,11.12,5950,Triple,Co-ed,2,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,2,Veg,No,Yes,No,10:00 PM,19-05-2026,Available
+165,rt nagar,13.022,77.594,1.48,6667,Double,Co-ed,2,Yes,No,No,No,No,No,No,No,No,No,No,5,Non-Veg,Yes,Yes,No,No Curfew,18-05-2026,Full
+166,yelahanka,13.1,77.596,7.22,19202,Single,Girls,3,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,4,Both,No,No,Yes,10:00 PM,25-04-2026,Full
+167,kothanur,13.06,77.65,6.5,5525,Triple,Boys,2,No,No,No,No,No,No,No,Yes,No,No,Yes,2,Veg,Yes,No,No,11:00 PM,14-05-2026,Available
+168,nagawara,13.04,77.62,2.61,6005,Triple,Co-ed,2,Yes,No,No,No,Yes,No,No,No,No,No,Yes,1,Non-Veg,No,Yes,Yes,No Curfew,15-05-2026,Full
+169,horamavu,13.03,77.67,8.12,19288,Single,Co-ed,2,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,Both,No,Yes,No,10:00 PM,15-05-2026,Full
+170,vidyaranyapura,13.08,77.55,7.22,4739,Triple,Boys,2,Yes,No,No,No,No,No,No,No,No,Yes,Yes,1,Veg,Yes,Yes,Yes,9:00 PM,11-05-2026,Full
+171,hebbal,13.035,77.597,0,10760,Double,Boys,2,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,1,Non-Veg,No,Yes,Yes,No Curfew,17-05-2026,Full
+172,bagalur,13.12,77.65,11.12,4643,Triple,Co-ed,3,No,No,No,No,No,Yes,No,No,No,No,Yes,4,Veg,No,No,Yes,10:00 PM,29-04-2026,Full
+173,kalyan nagar,13.025,77.64,4.9,5552,Triple,Co-ed,2,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,3,Non-Veg,No,No,Yes,11:00 PM,12-05-2026,Full
+174,kodigehalli,13.07,77.58,4.32,18915,Single,Boys,3,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,5,Veg,No,No,No,11:00 PM,20-05-2026,Full
+175,sahakar nagar,13.06,77.58,3.36,8645,Double,Co-ed,3,No,No,Yes,No,No,No,No,No,No,Yes,No,2,Non-Veg,No,Yes,No,No Curfew,06-05-2026,Full
+176,nagawara,13.04,77.62,2.61,4579,Triple,Girls,2,No,No,No,No,No,No,No,No,Yes,No,No,4,Both,No,No,Yes,9:00 PM,07-05-2026,Full
+177,jakkur,13.08,77.6,5.01,4618,Triple,Girls,3,No,No,No,No,No,No,No,No,No,No,No,2,Veg,No,Yes,Yes,10:00 PM,30-04-2026,Full
+178,thanisandra,13.05,77.62,3.05,12619,Single,Girls,3,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,3,Both,No,Yes,No,9:00 PM,12-05-2026,Available
+179,hennur,13.05,77.64,5.06,16927,Single,Co-ed,2,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,1,Non-Veg,No,Yes,No,No Curfew,17-05-2026,Available
+180,hennur,13.05,77.64,5.06,5105,Triple,Girls,3,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,5,Non-Veg,Yes,Yes,No,No Curfew,14-05-2026,Full
+181,kalyan nagar,13.025,77.64,4.9,9660,Single,Co-ed,2,No,No,Yes,No,No,No,No,Yes,No,No,Yes,4,Non-Veg,Yes,Yes,Yes,9:00 PM,06-05-2026,Full
+182,rt nagar,13.022,77.594,1.48,4614,Triple,Co-ed,2,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,2,Non-Veg,No,Yes,No,9:00 PM,11-05-2026,Available
+183,kalyan nagar,13.025,77.64,4.9,16415,Single,Boys,3,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,5,Both,No,Yes,Yes,11:00 PM,05-05-2026,Available
+184,kalyan nagar,13.025,77.64,4.9,19179,Single,Co-ed,2,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,3,Both,No,Yes,Yes,No Curfew,12-05-2026,Available
+185,horamavu,13.03,77.67,8.12,17501,Single,Girls,2,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,4,Veg,No,No,Yes,11:00 PM,25-04-2026,Available
+186,hebbal,13.035,77.597,0,11800,Single,Girls,2,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,1,Both,Yes,No,Yes,No Curfew,03-05-2026,Full
+187,rt nagar,13.022,77.594,1.48,13357,Single,Boys,2,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,4,Both,No,Yes,No,11:00 PM,28-04-2026,Full
+188,kodigehalli,13.07,77.58,4.32,13173,Single,Girls,3,No,No,Yes,Yes,No,No,No,No,Yes,No,Yes,5,Veg,No,No,No,9:00 PM,06-05-2026,Full
+189,rt nagar,13.022,77.594,1.48,10986,Double,Boys,2,No,No,No,No,No,No,No,Yes,Yes,No,Yes,3,Veg,No,Yes,Yes,9:00 PM,21-04-2026,Available
+190,kammanahalli,13.02,77.635,4.53,4112,Triple,Boys,2,Yes,No,No,No,No,No,No,No,No,No,Yes,1,Both,No,Yes,Yes,9:00 PM,05-05-2026,Available
+191,vidyaranyapura,13.08,77.55,7.22,6451,Double,Co-ed,2,No,No,No,Yes,No,No,No,No,No,No,No,2,Both,No,No,Yes,11:00 PM,16-05-2026,Full
+192,thanisandra,13.05,77.62,3.05,11444,Double,Co-ed,2,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,2,Both,No,Yes,No,10:00 PM,17-05-2026,Full
+193,kodigehalli,13.07,77.58,4.32,4668,Triple,Girls,2,No,Yes,No,No,No,Yes,No,No,No,No,Yes,1,Both,No,No,Yes,No Curfew,24-04-2026,Available
+194,vidyaranyapura,13.08,77.55,7.22,5082,Triple,Co-ed,2,No,No,No,Yes,No,No,No,No,Yes,No,Yes,1,Non-Veg,Yes,No,Yes,No Curfew,27-04-2026,Full
+195,horamavu,13.03,77.67,8.12,4816,Triple,Boys,2,No,No,No,No,No,No,No,No,No,No,Yes,4,Veg,No,No,No,9:00 PM,05-05-2026,Full
+196,rt nagar,13.022,77.594,1.48,4643,Triple,Girls,3,No,No,Yes,No,No,No,No,No,Yes,No,Yes,4,Both,Yes,Yes,Yes,10:00 PM,25-04-2026,Available
+197,kalyan nagar,13.025,77.64,4.9,6346,Triple,Boys,2,Yes,Yes,No,No,No,No,Yes,No,No,No,Yes,3,Veg,Yes,No,Yes,No Curfew,26-04-2026,Full
+198,sahakar nagar,13.06,77.58,3.36,6880,Triple,Girls,3,Yes,No,No,No,No,Yes,No,Yes,No,No,Yes,2,Both,No,Yes,No,10:00 PM,01-05-2026,Full
+199,jakkur,13.08,77.6,5.01,14307,Single,Boys,3,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,5,Veg,No,Yes,Yes,No Curfew,21-04-2026,Available
+200,thanisandra,13.05,77.62,3.05,4822,Triple,Girls,2,No,Yes,No,No,Yes,No,No,No,No,No,Yes,3,Non-Veg,Yes,Yes,Yes,11:00 PM,18-05-2026,Available
+201,kalyan nagar,13.025,77.64,4.9,6330,Triple,Girls,3,No,No,No,No,No,No,No,No,No,No,Yes,2,Non-Veg,Yes,Yes,Yes,9:00 PM,19-05-2026,Full
+202,thanisandra,13.05,77.62,3.05,4136,Triple,Girls,3,Yes,No,No,No,No,No,No,No,No,Yes,Yes,5,Both,No,No,Yes,9:00 PM,06-05-2026,Available
+203,vidyaranyapura,13.08,77.55,7.22,5942,Triple,Co-ed,3,No,No,No,No,No,No,No,No,No,No,Yes,2,Veg,No,Yes,Yes,No Curfew,29-04-2026,Full
+204,kothanur,13.06,77.65,6.5,11353,Double,Co-ed,2,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,3,Veg,No,Yes,No,9:00 PM,19-05-2026,Available
+205,rt nagar,13.022,77.594,1.48,18137,Single,Co-ed,3,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,5,Veg,No,No,Yes,9:00 PM,07-05-2026,Full
+206,kalyan nagar,13.025,77.64,4.9,18012,Single,Co-ed,3,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,1,Non-Veg,No,No,Yes,9:00 PM,02-05-2026,Full
+207,bagalur,13.12,77.65,11.12,8994,Double,Boys,2,Yes,No,No,No,No,No,Yes,Yes,No,Yes,Yes,2,Non-Veg,Yes,No,Yes,11:00 PM,15-05-2026,Full
+208,nagawara,13.04,77.62,2.61,5895,Triple,Girls,3,No,Yes,No,Yes,No,No,No,No,No,No,Yes,3,Non-Veg,No,Yes,Yes,11:00 PM,01-05-2026,Full
+209,rt nagar,13.022,77.594,1.48,9193,Double,Girls,3,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,1,Non-Veg,No,No,No,10:00 PM,27-04-2026,Full
+210,thanisandra,13.05,77.62,3.05,18695,Single,Boys,2,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,3,Both,No,No,No,10:00 PM,11-05-2026,Full
+211,kothanur,13.06,77.65,6.5,5493,Triple,Co-ed,2,No,No,No,No,No,No,No,No,No,No,Yes,3,Non-Veg,Yes,Yes,No,11:00 PM,02-05-2026,Available
+212,horamavu,13.03,77.67,8.12,4370,Triple,Co-ed,2,No,No,No,No,No,No,No,No,No,No,Yes,2,Non-Veg,Yes,No,No,10:00 PM,30-04-2026,Full
+213,horamavu,13.03,77.67,8.12,12046,Single,Co-ed,2,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,5,Non-Veg,No,Yes,No,11:00 PM,14-05-2026,Available
+214,yelahanka,13.1,77.596,7.22,7837,Double,Girls,2,No,Yes,No,No,No,No,No,No,No,Yes,Yes,3,Both,No,Yes,No,9:00 PM,19-05-2026,Full
+215,vidyaranyapura,13.08,77.55,7.22,8505,Double,Boys,2,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,5,Veg,Yes,Yes,No,11:00 PM,08-05-2026,Full
+216,rt nagar,13.022,77.594,1.48,9504,Double,Boys,2,No,Yes,No,No,No,No,No,No,No,No,Yes,3,Both,No,Yes,No,10:00 PM,06-05-2026,Available
+217,vidyaranyapura,13.08,77.55,7.22,8258,Double,Girls,2,No,Yes,No,No,No,No,No,No,No,No,No,3,Non-Veg,No,No,Yes,10:00 PM,12-05-2026,Full
+218,thanisandra,13.05,77.62,3.05,11841,Double,Boys,2,Yes,No,No,Yes,No,No,Yes,Yes,No,No,Yes,4,Veg,Yes,Yes,No,11:00 PM,04-05-2026,Available
+219,jakkur,13.08,77.6,5.01,10749,Double,Co-ed,2,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,2,Both,No,Yes,No,11:00 PM,16-05-2026,Available
+220,horamavu,13.03,77.67,8.12,18802,Single,Girls,2,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,5,Both,No,No,Yes,No Curfew,13-05-2026,Full
+221,sahakar nagar,13.06,77.58,3.36,15231,Single,Co-ed,3,No,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,5,Both,No,No,No,9:00 PM,20-05-2026,Full
+222,kodigehalli,13.07,77.58,4.32,18116,Single,Boys,2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,1,Both,No,Yes,Yes,11:00 PM,28-04-2026,Available
+223,sahakar nagar,13.06,77.58,3.36,5930,Triple,Co-ed,2,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,2,Both,No,No,No,9:00 PM,20-05-2026,Full
+224,kothanur,13.06,77.65,6.5,19692,Single,Boys,2,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,5,Both,No,Yes,No,11:00 PM,06-05-2026,Full
+225,kodigehalli,13.07,77.58,4.32,6529,Double,Girls,2,No,No,No,No,No,No,No,No,No,Yes,Yes,1,Non-Veg,No,Yes,No,11:00 PM,27-04-2026,Full
+226,kodigehalli,13.07,77.58,4.32,6808,Triple,Boys,2,No,No,No,No,No,Yes,No,No,Yes,No,Yes,2,Both,No,Yes,No,No Curfew,28-04-2026,Available
+227,thanisandra,13.05,77.62,3.05,7864,Triple,Girls,3,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,1,Both,No,Yes,No,10:00 PM,17-05-2026,Full
+228,hebbal,13.035,77.597,0,11296,Double,Boys,3,No,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,2,Veg,No,No,No,9:00 PM,12-05-2026,Available
+229,kothanur,13.06,77.65,6.5,11979,Single,Girls,2,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,1,Non-Veg,No,No,No,10:00 PM,12-05-2026,Available
+230,sahakar nagar,13.06,77.58,3.36,4721,Triple,Co-ed,2,No,No,No,No,No,No,No,No,Yes,No,Yes,1,Non-Veg,No,No,Yes,11:00 PM,10-05-2026,Full
+231,kothanur,13.06,77.65,6.5,10512,Double,Girls,3,No,No,No,No,No,Yes,No,Yes,No,No,Yes,3,Veg,Yes,Yes,No,11:00 PM,20-05-2026,Full
+232,jakkur,13.08,77.6,5.01,6882,Double,Boys,2,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,1,Veg,Yes,Yes,Yes,11:00 PM,11-05-2026,Available
+233,rt nagar,13.022,77.594,1.48,7473,Double,Co-ed,3,No,No,Yes,No,No,No,No,No,No,No,Yes,3,Both,No,Yes,No,No Curfew,07-05-2026,Full
+234,nagawara,13.04,77.62,2.61,7176,Triple,Boys,3,Yes,No,No,No,Yes,No,No,Yes,No,No,No,2,Non-Veg,No,Yes,Yes,No Curfew,06-05-2026,Available
+235,kodigehalli,13.07,77.58,4.32,4183,Triple,Boys,2,No,Yes,No,No,No,No,No,No,No,No,Yes,3,Non-Veg,Yes,Yes,No,11:00 PM,07-05-2026,Available
+236,thanisandra,13.05,77.62,3.05,4270,Triple,Co-ed,3,No,No,No,No,No,No,No,No,No,Yes,Yes,2,Veg,Yes,Yes,No,9:00 PM,07-05-2026,Full
+237,thanisandra,13.05,77.62,3.05,4627,Triple,Girls,3,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,1,Both,Yes,Yes,Yes,11:00 PM,17-05-2026,Available
+238,bagalur,13.12,77.65,11.12,4529,Triple,Boys,2,Yes,No,No,No,No,No,No,Yes,No,No,Yes,5,Veg,No,Yes,No,No Curfew,19-05-2026,Available
+239,vidyaranyapura,13.08,77.55,7.22,7268,Triple,Boys,2,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,4,Non-Veg,No,Yes,No,9:00 PM,11-05-2026,Available
+240,kammanahalli,13.02,77.635,4.53,10719,Single,Co-ed,2,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,1,Both,Yes,No,No,No Curfew,20-05-2026,Available
+241,jakkur,13.08,77.6,5.01,12758,Single,Boys,3,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,5,Veg,No,Yes,No,9:00 PM,26-04-2026,Available
+242,kalyan nagar,13.025,77.64,4.9,7780,Triple,Girls,3,No,No,No,Yes,No,No,Yes,No,No,No,Yes,5,Both,Yes,Yes,No,10:00 PM,01-05-2026,Available
+243,kodigehalli,13.07,77.58,4.32,10003,Single,Girls,3,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,4,Non-Veg,No,No,No,11:00 PM,06-05-2026,Full
+244,kalyan nagar,13.025,77.64,4.9,4462,Triple,Co-ed,3,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,3,Non-Veg,Yes,Yes,No,10:00 PM,27-04-2026,Full
+245,nagawara,13.04,77.62,2.61,9575,Double,Co-ed,3,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,5,Non-Veg,Yes,No,Yes,No Curfew,02-05-2026,Available
+246,thanisandra,13.05,77.62,3.05,9075,Double,Co-ed,2,No,No,No,Yes,No,No,No,Yes,No,No,Yes,3,Both,No,No,Yes,9:00 PM,29-04-2026,Full
+247,kammanahalli,13.02,77.635,4.53,18170,Single,Boys,3,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,1,Both,No,Yes,Yes,10:00 PM,30-04-2026,Available
+248,horamavu,13.03,77.67,8.12,7106,Double,Girls,3,No,No,No,No,No,Yes,No,No,No,No,Yes,1,Non-Veg,Yes,Yes,Yes,9:00 PM,30-04-2026,Full
+249,kothanur,13.06,77.65,6.5,8146,Double,Boys,3,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,3,Non-Veg,No,Yes,No,10:00 PM,26-04-2026,Available
+250,nagawara,13.04,77.62,2.61,13586,Single,Co-ed,2,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,4,Non-Veg,No,No,No,10:00 PM,19-05-2026,Available
+251,hebbal,13.035,77.597,0,6464,Double,Co-ed,3,Yes,No,No,Yes,No,No,No,Yes,Yes,No,Yes,4,Both,No,No,No,No Curfew,05-05-2026,Available
+252,vidyaranyapura,13.08,77.55,7.22,10013,Double,Girls,2,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,4,Non-Veg,No,Yes,No,10:00 PM,01-05-2026,Available
+253,jakkur,13.08,77.6,5.01,6829,Double,Girls,2,No,No,No,No,Yes,Yes,No,No,No,Yes,Yes,2,Veg,No,Yes,No,11:00 PM,25-04-2026,Available
+254,jakkur,13.08,77.6,5.01,9277,Single,Co-ed,2,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,3,Veg,No,No,No,11:00 PM,30-04-2026,Full
+255,yelahanka,13.1,77.596,7.22,9129,Single,Girls,2,No,No,No,No,Yes,No,No,Yes,Yes,No,Yes,4,Both,Yes,No,No,No Curfew,21-04-2026,Full
+256,horamavu,13.03,77.67,8.12,4558,Triple,Co-ed,2,Yes,No,No,No,Yes,Yes,No,No,No,No,Yes,1,Veg,No,No,Yes,10:00 PM,12-05-2026,Full
+257,bagalur,13.12,77.65,11.12,11077,Single,Co-ed,2,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,1,Both,No,Yes,No,11:00 PM,22-04-2026,Available
+258,thanisandra,13.05,77.62,3.05,7231,Triple,Boys,2,No,No,No,No,Yes,Yes,No,Yes,No,No,Yes,3,Non-Veg,No,No,Yes,9:00 PM,05-05-2026,Full
+259,bagalur,13.12,77.65,11.12,8660,Double,Co-ed,2,No,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,4,Non-Veg,No,No,No,10:00 PM,14-05-2026,Available
+260,hebbal,13.035,77.597,0,6776,Triple,Girls,2,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Yes,4,Both,No,No,No,9:00 PM,27-04-2026,Full
+261,hennur,13.05,77.64,5.06,9629,Double,Girls,2,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Yes,3,Veg,No,Yes,Yes,9:00 PM,13-05-2026,Available
+262,hennur,13.05,77.64,5.06,4799,Triple,Boys,2,No,No,No,No,Yes,No,No,No,No,No,Yes,4,Veg,Yes,Yes,No,No Curfew,12-05-2026,Available
+263,hennur,13.05,77.64,5.06,7367,Double,Boys,2,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,3,Non-Veg,No,No,No,11:00 PM,02-05-2026,Available
+264,yelahanka,13.1,77.596,7.22,7644,Double,Boys,3,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,3,Both,Yes,Yes,No,10:00 PM,06-05-2026,Available
+265,kammanahalli,13.02,77.635,4.53,7049,Double,Boys,2,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,2,Non-Veg,No,No,Yes,11:00 PM,26-04-2026,Available
+266,hennur,13.05,77.64,5.06,17105,Single,Co-ed,2,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,3,Veg,No,Yes,Yes,11:00 PM,15-05-2026,Available
+267,horamavu,13.03,77.67,8.12,5292,Triple,Co-ed,2,No,No,No,No,No,No,No,No,No,No,Yes,4,Both,No,Yes,No,10:00 PM,19-05-2026,Available
+268,bagalur,13.12,77.65,11.12,16008,Single,Boys,2,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,5,Veg,No,No,Yes,10:00 PM,13-05-2026,Available
+269,horamavu,13.03,77.67,8.12,9590,Double,Boys,3,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,1,Non-Veg,No,No,Yes,9:00 PM,27-04-2026,Available
+270,kodigehalli,13.07,77.58,4.32,6525,Triple,Co-ed,3,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,3,Both,Yes,Yes,No,10:00 PM,07-05-2026,Full
+271,bagalur,13.12,77.65,11.12,9622,Double,Boys,3,No,No,No,No,Yes,No,No,No,No,Yes,No,1,Non-Veg,No,No,Yes,10:00 PM,26-04-2026,Available
+272,vidyaranyapura,13.08,77.55,7.22,13677,Single,Boys,3,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,5,Both,Yes,Yes,No,11:00 PM,11-05-2026,Available
+273,hebbal,13.035,77.597,0,6270,Double,Boys,3,No,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,3,Both,No,Yes,No,10:00 PM,12-05-2026,Available
+274,kalyan nagar,13.025,77.64,4.9,7473,Double,Co-ed,3,No,No,No,No,No,No,No,No,Yes,No,Yes,5,Veg,No,No,No,No Curfew,11-05-2026,Full
+275,horamavu,13.03,77.67,8.12,17671,Single,Girls,2,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,5,Non-Veg,No,Yes,No,11:00 PM,10-05-2026,Available
+276,thanisandra,13.05,77.62,3.05,4174,Triple,Boys,2,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,1,Veg,No,Yes,No,10:00 PM,30-04-2026,Full
+277,kalyan nagar,13.025,77.64,4.9,18706,Single,Co-ed,3,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,5,Veg,No,Yes,Yes,9:00 PM,04-05-2026,Available
+278,kammanahalli,13.02,77.635,4.53,5819,Triple,Boys,3,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,3,Veg,No,Yes,No,No Curfew,27-04-2026,Available
+279,vidyaranyapura,13.08,77.55,7.22,8653,Double,Boys,2,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,3,Veg,No,Yes,No,11:00 PM,04-05-2026,Full
+280,hebbal,13.035,77.597,0,4373,Triple,Girls,2,No,No,No,No,No,Yes,No,No,No,No,Yes,4,Both,No,No,Yes,No Curfew,16-05-2026,Full
+281,sahakar nagar,13.06,77.58,3.36,5634,Triple,Co-ed,3,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,5,Non-Veg,No,Yes,No,9:00 PM,26-04-2026,Available
+282,kothanur,13.06,77.65,6.5,4662,Triple,Girls,3,No,No,No,No,No,No,No,No,Yes,No,Yes,3,Veg,No,Yes,No,11:00 PM,06-05-2026,Available
+283,horamavu,13.03,77.67,8.12,11387,Single,Boys,3,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,4,Non-Veg,No,Yes,Yes,No Curfew,26-04-2026,Available
+284,hennur,13.05,77.64,5.06,9402,Double,Girls,3,Yes,No,Yes,No,No,Yes,No,Yes,No,No,Yes,5,Veg,Yes,No,Yes,10:00 PM,07-05-2026,Available
+285,kodigehalli,13.07,77.58,4.32,4507,Triple,Girls,3,Yes,No,No,No,No,No,No,No,No,No,Yes,2,Veg,No,Yes,No,11:00 PM,16-05-2026,Available
+286,hebbal,13.035,77.597,0,7141,Triple,Girls,2,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,1,Both,No,Yes,Yes,9:00 PM,05-05-2026,Full
+287,jakkur,13.08,77.6,5.01,11188,Double,Girls,2,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,1,Veg,Yes,Yes,No,11:00 PM,30-04-2026,Full
+288,horamavu,13.03,77.67,8.12,7187,Double,Co-ed,2,No,No,Yes,No,No,No,No,Yes,No,No,No,2,Both,No,No,No,9:00 PM,08-05-2026,Full
+289,jakkur,13.08,77.6,5.01,17979,Single,Co-ed,3,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,3,Non-Veg,No,Yes,No,11:00 PM,20-05-2026,Full
+290,sahakar nagar,13.06,77.58,3.36,13239,Single,Co-ed,3,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,3,Veg,Yes,Yes,No,9:00 PM,30-04-2026,Available
+291,horamavu,13.03,77.67,8.12,5296,Triple,Girls,3,No,No,No,No,No,No,No,No,No,No,Yes,2,Non-Veg,Yes,Yes,Yes,10:00 PM,01-05-2026,Full
+292,sahakar nagar,13.06,77.58,3.36,5189,Triple,Girls,2,Yes,No,Yes,No,No,No,No,No,No,No,No,5,Non-Veg,No,No,Yes,11:00 PM,17-05-2026,Full
+293,kalyan nagar,13.025,77.64,4.9,10482,Double,Girls,2,Yes,Yes,No,No,No,No,Yes,No,No,Yes,Yes,1,Non-Veg,No,Yes,No,10:00 PM,06-05-2026,Available
+294,kammanahalli,13.02,77.635,4.53,6271,Triple,Boys,3,No,No,No,No,No,No,Yes,Yes,Yes,No,Yes,2,Veg,Yes,No,No,9:00 PM,24-04-2026,Available
+295,thanisandra,13.05,77.62,3.05,8294,Double,Girls,2,Yes,Yes,No,No,No,No,Yes,Yes,No,No,Yes,4,Non-Veg,No,Yes,Yes,9:00 PM,27-04-2026,Available
+296,horamavu,13.03,77.67,8.12,14596,Single,Boys,3,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,3,Both,No,No,No,9:00 PM,01-05-2026,Full
+297,nagawara,13.04,77.62,2.61,7344,Triple,Co-ed,3,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,1,Veg,No,Yes,Yes,11:00 PM,24-04-2026,Available
+298,kodigehalli,13.07,77.58,4.32,8721,Double,Girls,2,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,4,Both,Yes,No,No,11:00 PM,20-05-2026,Full
+299,sahakar nagar,13.06,77.58,3.36,11583,Double,Boys,2,Yes,No,Yes,No,Yes,No,No,No,No,No,Yes,3,Both,Yes,Yes,Yes,11:00 PM,27-04-2026,Full
+300,vidyaranyapura,13.08,77.55,7.22,6295,Triple,Co-ed,2,No,No,No,No,No,No,No,Yes,No,No,Yes,2,Veg,Yes,No,Yes,No Curfew,14-05-2026,Full
+301,horamavu,13.03,77.67,8.12,11530,Double,Boys,3,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,4,Non-Veg,No,No,No,9:00 PM,21-04-2026,Full
+302,rt nagar,13.022,77.594,1.48,11662,Double,Boys,2,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,2,Veg,Yes,No,No,No Curfew,25-04-2026,Full
+303,hennur,13.05,77.64,5.06,15464,Single,Co-ed,2,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,4,Both,No,Yes,No,10:00 PM,03-05-2026,Available
+304,kammanahalli,13.02,77.635,4.53,8499,Double,Girls,2,No,No,No,No,Yes,No,No,No,Yes,No,Yes,2,Non-Veg,Yes,Yes,No,11:00 PM,13-05-2026,Full
+305,hebbal,13.035,77.597,0,15678,Single,Girls,2,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,5,Both,No,No,Yes,No Curfew,22-04-2026,Full
+306,jakkur,13.08,77.6,5.01,11728,Single,Boys,2,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,4,Non-Veg,No,Yes,No,11:00 PM,09-05-2026,Full
+307,rt nagar,13.022,77.594,1.48,13078,Single,Boys,2,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,5,Non-Veg,No,No,Yes,10:00 PM,16-05-2026,Available
+308,jakkur,13.08,77.6,5.01,6992,Double,Co-ed,3,No,No,No,Yes,No,No,No,No,Yes,No,Yes,4,Veg,Yes,Yes,No,11:00 PM,11-05-2026,Available
+309,sahakar nagar,13.06,77.58,3.36,8415,Double,Boys,3,No,No,Yes,No,No,Yes,No,No,Yes,No,Yes,1,Veg,Yes,Yes,No,No Curfew,14-05-2026,Available
+310,hennur,13.05,77.64,5.06,10654,Double,Boys,2,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,5,Veg,Yes,No,No,10:00 PM,02-05-2026,Full
+311,nagawara,13.04,77.62,2.61,6635,Triple,Boys,2,No,No,No,No,No,No,No,No,No,No,Yes,1,Veg,Yes,Yes,No,11:00 PM,16-05-2026,Available
+312,hebbal,13.035,77.597,0,9228,Double,Girls,2,No,No,No,No,Yes,Yes,No,No,Yes,No,Yes,4,Veg,No,No,No,9:00 PM,20-05-2026,Full
+313,thanisandra,13.05,77.62,3.05,14680,Single,Girls,3,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,1,Both,No,Yes,Yes,10:00 PM,17-05-2026,Full
+314,kalyan nagar,13.025,77.64,4.9,10994,Double,Boys,2,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,5,Both,No,Yes,No,No Curfew,26-04-2026,Full
+315,hebbal,13.035,77.597,0,8131,Double,Boys,2,No,Yes,No,No,Yes,No,Yes,No,No,No,Yes,1,Non-Veg,No,No,No,10:00 PM,26-04-2026,Full
+316,yelahanka,13.1,77.596,7.22,7641,Double,Boys,3,No,No,No,No,No,No,No,Yes,No,Yes,Yes,3,Non-Veg,No,Yes,Yes,9:00 PM,22-04-2026,Available
+317,horamavu,13.03,77.67,8.12,11204,Double,Boys,2,No,No,No,No,No,No,Yes,No,No,No,Yes,2,Non-Veg,No,Yes,Yes,No Curfew,10-05-2026,Available
+318,bagalur,13.12,77.65,11.12,18327,Single,Co-ed,3,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,1,Veg,No,No,No,9:00 PM,12-05-2026,Full
+319,bagalur,13.12,77.65,11.12,8603,Double,Co-ed,2,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,1,Both,No,Yes,Yes,9:00 PM,02-05-2026,Full
+320,sahakar nagar,13.06,77.58,3.36,14935,Single,Co-ed,3,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,1,Non-Veg,No,Yes,No,9:00 PM,22-04-2026,Full
+321,horamavu,13.03,77.67,8.12,17787,Single,Co-ed,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,4,Non-Veg,No,Yes,No,11:00 PM,30-04-2026,Available
+322,yelahanka,13.1,77.596,7.22,15353,Single,Girls,2,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,5,Both,No,Yes,No,No Curfew,16-05-2026,Available
+323,hennur,13.05,77.64,5.06,5273,Triple,Co-ed,3,No,No,No,No,No,No,Yes,No,No,No,Yes,4,Both,No,Yes,No,11:00 PM,01-05-2026,Full
+324,kothanur,13.06,77.65,6.5,9401,Double,Co-ed,3,No,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,4,Veg,Yes,No,Yes,10:00 PM,19-05-2026,Available
+325,kammanahalli,13.02,77.635,4.53,11972,Double,Boys,2,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,4,Non-Veg,No,Yes,Yes,11:00 PM,29-04-2026,Full
+326,bagalur,13.12,77.65,11.12,6571,Triple,Boys,3,No,No,No,Yes,No,Yes,No,No,No,Yes,Yes,5,Non-Veg,No,No,No,No Curfew,09-05-2026,Available
+327,kammanahalli,13.02,77.635,4.53,15520,Single,Boys,3,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,5,Both,No,No,Yes,11:00 PM,23-04-2026,Available
+328,bagalur,13.12,77.65,11.12,14629,Single,Co-ed,3,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,2,Veg,Yes,No,No,10:00 PM,04-05-2026,Available
+329,hebbal,13.035,77.597,0,14289,Single,Co-ed,2,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,3,Veg,No,No,No,No Curfew,16-05-2026,Full
+330,bagalur,13.12,77.65,11.12,7151,Triple,Girls,3,No,No,No,No,No,No,No,No,No,No,Yes,4,Veg,No,Yes,No,9:00 PM,16-05-2026,Full
+331,horamavu,13.03,77.67,8.12,7926,Triple,Co-ed,2,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,4,Both,No,Yes,Yes,9:00 PM,02-05-2026,Available
+332,thanisandra,13.05,77.62,3.05,5140,Triple,Girls,3,No,No,No,No,No,No,No,No,No,No,Yes,1,Non-Veg,No,Yes,Yes,11:00 PM,11-05-2026,Available
+333,kalyan nagar,13.025,77.64,4.9,10144,Double,Co-ed,2,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,5,Non-Veg,No,No,Yes,9:00 PM,26-04-2026,Available
+334,thanisandra,13.05,77.62,3.05,7848,Double,Girls,3,No,Yes,No,No,No,No,No,Yes,No,Yes,Yes,1,Both,Yes,Yes,No,10:00 PM,23-04-2026,Available
+335,sahakar nagar,13.06,77.58,3.36,12497,Single,Boys,3,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,3,Veg,Yes,Yes,No,11:00 PM,19-05-2026,Full
+336,thanisandra,13.05,77.62,3.05,19514,Single,Boys,2,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,5,Non-Veg,No,Yes,No,10:00 PM,28-04-2026,Full
+337,thanisandra,13.05,77.62,3.05,12459,Single,Girls,3,No,No,Yes,No,Yes,No,No,Yes,No,No,Yes,3,Both,Yes,Yes,Yes,No Curfew,18-05-2026,Full
+338,yelahanka,13.1,77.596,7.22,9336,Double,Boys,2,No,No,No,No,No,No,No,Yes,No,Yes,Yes,4,Veg,No,No,Yes,11:00 PM,18-05-2026,Available
+339,horamavu,13.03,77.67,8.12,15673,Single,Boys,2,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,3,Both,No,Yes,Yes,11:00 PM,24-04-2026,Full
+340,rt nagar,13.022,77.594,1.48,15310,Single,Boys,2,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,1,Non-Veg,Yes,No,No,11:00 PM,30-04-2026,Full
+341,kodigehalli,13.07,77.58,4.32,7381,Double,Co-ed,3,No,No,No,No,No,No,No,Yes,No,No,Yes,2,Veg,Yes,Yes,No,10:00 PM,20-05-2026,Available
+342,bagalur,13.12,77.65,11.12,4417,Triple,Girls,2,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,2,Both,Yes,Yes,Yes,10:00 PM,26-04-2026,Full
+343,yelahanka,13.1,77.596,7.22,7794,Triple,Boys,3,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes,4,Both,No,Yes,No,11:00 PM,03-05-2026,Available
+344,jakkur,13.08,77.6,5.01,14904,Single,Girls,3,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,4,Veg,No,No,No,10:00 PM,27-04-2026,Full
+345,kalyan nagar,13.025,77.64,4.9,7036,Double,Boys,3,Yes,No,No,No,Yes,No,No,Yes,No,No,Yes,5,Veg,No,No,No,10:00 PM,28-04-2026,Full
+346,kalyan nagar,13.025,77.64,4.9,8590,Double,Boys,3,Yes,No,Yes,Yes,No,No,No,No,Yes,No,Yes,5,Both,No,No,Yes,11:00 PM,12-05-2026,Full
+347,thanisandra,13.05,77.62,3.05,5875,Triple,Girls,3,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,2,Non-Veg,Yes,Yes,No,11:00 PM,13-05-2026,Full
+348,thanisandra,13.05,77.62,3.05,8063,Double,Co-ed,3,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,2,Both,No,Yes,No,9:00 PM,05-05-2026,Full
+349,kodigehalli,13.07,77.58,4.32,4564,Triple,Girls,3,Yes,No,No,No,No,No,No,No,No,No,Yes,3,Veg,No,No,No,10:00 PM,26-04-2026,Available
+350,bagalur,13.12,77.65,11.12,11561,Double,Boys,2,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,1,Veg,No,Yes,Yes,9:00 PM,09-05-2026,Available
+351,thanisandra,13.05,77.62,3.05,13305,Single,Girls,3,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,1,Non-Veg,No,No,No,9:00 PM,11-05-2026,Full
+352,horamavu,13.03,77.67,8.12,12052,Single,Co-ed,3,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,3,Veg,Yes,No,No,No Curfew,16-05-2026,Available
+353,kalyan nagar,13.025,77.64,4.9,7901,Triple,Boys,3,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,2,Veg,No,No,No,No Curfew,29-04-2026,Full
+354,thanisandra,13.05,77.62,3.05,14785,Single,Boys,3,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,5,Veg,No,Yes,No,9:00 PM,14-05-2026,Available
+355,hennur,13.05,77.64,5.06,7996,Double,Co-ed,2,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,5,Veg,No,Yes,No,10:00 PM,15-05-2026,Available
+356,jakkur,13.08,77.6,5.01,18909,Single,Boys,2,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,1,Both,No,No,Yes,No Curfew,20-05-2026,Available
+357,kammanahalli,13.02,77.635,4.53,16938,Single,Boys,2,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,1,Veg,Yes,No,No,11:00 PM,22-04-2026,Available
+358,nagawara,13.04,77.62,2.61,19944,Single,Girls,3,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,1,Both,No,Yes,No,10:00 PM,29-04-2026,Available
+359,bagalur,13.12,77.65,11.12,15014,Single,Co-ed,3,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,2,Non-Veg,No,Yes,No,11:00 PM,14-05-2026,Available
+360,jakkur,13.08,77.6,5.01,4618,Triple,Co-ed,2,No,No,No,Yes,No,No,No,No,Yes,No,Yes,5,Veg,Yes,Yes,No,No Curfew,09-05-2026,Available
+361,rt nagar,13.022,77.594,1.48,11192,Double,Co-ed,2,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,3,Non-Veg,No,Yes,No,No Curfew,27-04-2026,Full
+362,rt nagar,13.022,77.594,1.48,4269,Triple,Co-ed,2,No,No,No,No,No,No,No,No,No,Yes,Yes,1,Veg,Yes,Yes,Yes,No Curfew,26-04-2026,Full
+363,rt nagar,13.022,77.594,1.48,4631,Triple,Girls,3,No,No,No,No,Yes,No,No,No,No,No,Yes,2,Veg,No,Yes,No,11:00 PM,15-05-2026,Available
+364,yelahanka,13.1,77.596,7.22,7384,Triple,Boys,3,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,3,Veg,Yes,Yes,No,11:00 PM,15-05-2026,Full
+365,vidyaranyapura,13.08,77.55,7.22,9869,Double,Girls,2,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,4,Veg,No,Yes,Yes,11:00 PM,25-04-2026,Full
+366,thanisandra,13.05,77.62,3.05,6057,Double,Girls,3,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Yes,5,Both,No,Yes,No,11:00 PM,02-05-2026,Available
+367,kothanur,13.06,77.65,6.5,6032,Triple,Girls,2,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,2,Non-Veg,Yes,No,No,11:00 PM,15-05-2026,Available
+368,nagawara,13.04,77.62,2.61,7298,Double,Girls,2,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,3,Non-Veg,No,Yes,No,10:00 PM,27-04-2026,Full
+369,vidyaranyapura,13.08,77.55,7.22,12935,Single,Boys,3,Yes,Yes,No,No,No,Yes,No,No,Yes,No,Yes,2,Non-Veg,No,No,No,No Curfew,21-04-2026,Full
+370,kalyan nagar,13.025,77.64,4.9,6752,Double,Boys,2,No,No,No,No,No,No,No,Yes,No,No,No,2,Non-Veg,No,No,No,11:00 PM,13-05-2026,Full
+371,kothanur,13.06,77.65,6.5,4943,Triple,Co-ed,2,No,Yes,No,No,No,No,No,No,No,No,Yes,3,Veg,Yes,No,No,No Curfew,06-05-2026,Available
+372,bagalur,13.12,77.65,11.12,4703,Triple,Co-ed,2,No,Yes,No,No,No,No,No,No,No,No,Yes,5,Veg,No,Yes,No,10:00 PM,14-05-2026,Available
+373,yelahanka,13.1,77.596,7.22,12170,Single,Boys,3,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,3,Non-Veg,No,Yes,No,10:00 PM,09-05-2026,Full
+374,jakkur,13.08,77.6,5.01,7564,Double,Co-ed,3,Yes,No,No,Yes,No,No,No,No,No,No,No,4,Non-Veg,No,No,No,No Curfew,28-04-2026,Available
+375,kodigehalli,13.07,77.58,4.32,11553,Single,Co-ed,3,No,No,No,Yes,No,No,No,No,Yes,Yes,Yes,1,Non-Veg,Yes,Yes,No,No Curfew,18-05-2026,Available
+376,hennur,13.05,77.64,5.06,6030,Double,Girls,2,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,4,Non-Veg,No,Yes,No,9:00 PM,26-04-2026,Available
+377,sahakar nagar,13.06,77.58,3.36,5704,Triple,Co-ed,2,Yes,No,Yes,No,No,Yes,No,No,Yes,No,Yes,3,Non-Veg,No,No,Yes,10:00 PM,28-04-2026,Available
+378,horamavu,13.03,77.67,8.12,7781,Double,Boys,2,No,No,No,No,No,No,Yes,No,No,No,Yes,4,Veg,Yes,No,Yes,No Curfew,03-05-2026,Available
+379,sahakar nagar,13.06,77.58,3.36,6747,Triple,Girls,3,No,No,Yes,No,No,No,No,Yes,No,No,Yes,3,Non-Veg,Yes,No,No,No Curfew,04-05-2026,Available
+380,yelahanka,13.1,77.596,7.22,11198,Double,Boys,3,Yes,No,No,No,No,No,No,No,Yes,No,Yes,1,Both,No,Yes,Yes,9:00 PM,19-05-2026,Full
+381,rt nagar,13.022,77.594,1.48,7973,Double,Boys,2,No,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,1,Veg,Yes,Yes,No,11:00 PM,28-04-2026,Available
+382,hennur,13.05,77.64,5.06,19237,Single,Girls,2,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,3,Non-Veg,No,Yes,No,10:00 PM,25-04-2026,Full
+383,hebbal,13.035,77.597,0,7221,Double,Co-ed,3,No,No,No,No,No,Yes,No,No,Yes,No,Yes,4,Veg,Yes,Yes,No,9:00 PM,12-05-2026,Full
+384,yelahanka,13.1,77.596,7.22,9930,Double,Boys,2,Yes,No,No,Yes,No,No,No,Yes,No,Yes,Yes,3,Non-Veg,No,No,No,11:00 PM,27-04-2026,Available
+385,kodigehalli,13.07,77.58,4.32,19339,Single,Co-ed,2,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,3,Veg,No,Yes,Yes,10:00 PM,17-05-2026,Full
+386,horamavu,13.03,77.67,8.12,9719,Double,Girls,2,No,No,Yes,No,No,No,No,No,No,Yes,Yes,4,Veg,No,Yes,No,9:00 PM,05-05-2026,Full
+387,kalyan nagar,13.025,77.64,4.9,14330,Single,Co-ed,3,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,2,Both,Yes,No,Yes,9:00 PM,01-05-2026,Available
+388,rt nagar,13.022,77.594,1.48,16262,Single,Boys,2,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,1,Non-Veg,Yes,Yes,Yes,9:00 PM,17-05-2026,Full
+389,sahakar nagar,13.06,77.58,3.36,6897,Triple,Girls,2,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,5,Both,No,No,Yes,11:00 PM,19-05-2026,Full
+390,sahakar nagar,13.06,77.58,3.36,5065,Triple,Boys,2,No,No,No,Yes,No,Yes,No,No,No,No,Yes,2,Veg,Yes,No,No,10:00 PM,18-05-2026,Available
+391,yelahanka,13.1,77.596,7.22,5958,Triple,Girls,2,No,Yes,No,Yes,No,No,No,No,No,No,Yes,2,Veg,No,Yes,Yes,9:00 PM,28-04-2026,Available
+392,hebbal,13.035,77.597,0,9834,Single,Co-ed,3,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,1,Non-Veg,No,Yes,Yes,No Curfew,28-04-2026,Full
+393,bagalur,13.12,77.65,11.12,11193,Double,Co-ed,3,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,2,Veg,Yes,No,Yes,9:00 PM,02-05-2026,Available
+394,nagawara,13.04,77.62,2.61,9292,Double,Co-ed,3,No,No,No,No,No,No,No,No,No,No,Yes,5,Both,No,No,No,11:00 PM,21-04-2026,Full
+395,kodigehalli,13.07,77.58,4.32,17701,Single,Co-ed,3,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,4,Non-Veg,No,No,Yes,10:00 PM,12-05-2026,Full
+396,thanisandra,13.05,77.62,3.05,9722,Double,Boys,3,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,4,Veg,No,Yes,Yes,No Curfew,07-05-2026,Available
+397,bagalur,13.12,77.65,11.12,10060,Double,Girls,2,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,3,Both,No,Yes,Yes,9:00 PM,01-05-2026,Available
+398,horamavu,13.03,77.67,8.12,7469,Double,Co-ed,2,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,3,Veg,No,No,No,10:00 PM,19-05-2026,Full
+399,kalyan nagar,13.025,77.64,4.9,18034,Single,Boys,2,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,5,Veg,No,Yes,No,No Curfew,07-05-2026,Available
+400,yelahanka,13.1,77.596,7.22,6177,Triple,Girls,2,No,No,No,No,No,No,No,No,No,No,No,3,Both,No,No,No,9:00 PM,25-04-2026,Available
+401,kammanahalli,13.02,77.635,4.53,15009,Single,Co-ed,2,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,1,Veg,No,No,Yes,10:00 PM,02-05-2026,Available
+402,yelahanka,13.1,77.596,7.22,17047,Single,Boys,2,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,5,Non-Veg,Yes,No,Yes,10:00 PM,18-05-2026,Full
+403,nagawara,13.04,77.62,2.61,7403,Triple,Boys,2,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,1,Both,Yes,No,No,10:00 PM,20-05-2026,Full
+404,jakkur,13.08,77.6,5.01,5881,Triple,Co-ed,2,Yes,No,No,No,Yes,No,No,No,No,No,Yes,3,Both,No,Yes,Yes,9:00 PM,22-04-2026,Full
+405,kodigehalli,13.07,77.58,4.32,7402,Triple,Girls,2,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,3,Veg,Yes,Yes,Yes,9:00 PM,02-05-2026,Full
+406,hennur,13.05,77.64,5.06,4157,Triple,Co-ed,2,No,No,No,Yes,No,Yes,No,No,No,No,Yes,3,Both,No,No,No,10:00 PM,07-05-2026,Available
+407,sahakar nagar,13.06,77.58,3.36,9815,Double,Co-ed,3,No,No,No,No,No,No,No,Yes,Yes,No,Yes,1,Both,Yes,Yes,No,No Curfew,13-05-2026,Full
+408,kothanur,13.06,77.65,6.5,7200,Triple,Boys,2,No,No,No,No,Yes,No,No,No,No,No,Yes,3,Both,No,No,No,No Curfew,13-05-2026,Available
+409,vidyaranyapura,13.08,77.55,7.22,10690,Double,Co-ed,2,No,Yes,No,No,No,No,Yes,No,No,No,Yes,4,Both,Yes,No,Yes,10:00 PM,03-05-2026,Available
+410,kothanur,13.06,77.65,6.5,15948,Single,Boys,3,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,3,Non-Veg,No,Yes,No,No Curfew,16-05-2026,Available
+411,thanisandra,13.05,77.62,3.05,5349,Triple,Boys,3,No,No,No,No,Yes,No,No,Yes,No,No,Yes,4,Veg,Yes,Yes,Yes,No Curfew,17-05-2026,Available
+412,horamavu,13.03,77.67,8.12,9604,Single,Co-ed,3,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,2,Veg,No,Yes,Yes,10:00 PM,24-04-2026,Available
+413,hebbal,13.035,77.597,0,6896,Triple,Co-ed,3,Yes,No,No,No,No,No,No,No,No,Yes,Yes,1,Veg,No,Yes,Yes,No Curfew,17-05-2026,Full
+414,vidyaranyapura,13.08,77.55,7.22,10472,Double,Girls,2,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,1,Veg,No,Yes,No,No Curfew,22-04-2026,Available
+415,kodigehalli,13.07,77.58,4.32,4201,Triple,Boys,3,No,No,No,No,No,Yes,No,Yes,No,No,Yes,1,Non-Veg,No,Yes,No,10:00 PM,06-05-2026,Full
+416,nagawara,13.04,77.62,2.61,17444,Single,Boys,2,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,5,Veg,No,No,Yes,9:00 PM,13-05-2026,Available
+417,nagawara,13.04,77.62,2.61,10072,Double,Girls,3,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,Yes,2,Both,Yes,No,Yes,11:00 PM,14-05-2026,Full
+418,horamavu,13.03,77.67,8.12,17705,Single,Co-ed,2,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,4,Veg,No,No,Yes,10:00 PM,20-05-2026,Available
+419,yelahanka,13.1,77.596,7.22,9864,Single,Girls,3,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes,3,Both,No,Yes,No,9:00 PM,16-05-2026,Full
+420,kalyan nagar,13.025,77.64,4.9,5589,Triple,Girls,2,No,No,No,Yes,No,No,No,No,No,No,Yes,5,Both,No,Yes,No,11:00 PM,27-04-2026,Full
+421,horamavu,13.03,77.67,8.12,6966,Double,Boys,2,No,Yes,No,No,No,No,No,No,Yes,Yes,Yes,4,Veg,Yes,Yes,Yes,11:00 PM,06-05-2026,Full
+422,yelahanka,13.1,77.596,7.22,15382,Single,Boys,2,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,4,Non-Veg,Yes,Yes,No,11:00 PM,14-05-2026,Full
+423,kalyan nagar,13.025,77.64,4.9,5667,Triple,Girls,2,No,No,Yes,No,No,Yes,No,No,No,No,Yes,2,Both,No,Yes,No,No Curfew,15-05-2026,Available
+424,kothanur,13.06,77.65,6.5,14956,Single,Co-ed,2,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,3,Non-Veg,No,Yes,No,10:00 PM,20-05-2026,Full
+425,hennur,13.05,77.64,5.06,10465,Single,Co-ed,2,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,5,Veg,No,Yes,Yes,11:00 PM,21-04-2026,Available
+426,kothanur,13.06,77.65,6.5,12878,Single,Boys,3,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,5,Non-Veg,No,Yes,Yes,11:00 PM,13-05-2026,Available
+427,nagawara,13.04,77.62,2.61,11615,Double,Girls,3,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,5,Both,No,No,Yes,No Curfew,07-05-2026,Full
+428,thanisandra,13.05,77.62,3.05,7091,Triple,Girls,2,No,No,Yes,No,No,No,No,No,No,No,Yes,2,Non-Veg,No,Yes,Yes,9:00 PM,02-05-2026,Full
+429,kothanur,13.06,77.65,6.5,18972,Single,Co-ed,2,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,2,Veg,Yes,Yes,Yes,10:00 PM,29-04-2026,Full
+430,kodigehalli,13.07,77.58,4.32,18069,Single,Boys,3,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,3,Non-Veg,No,No,No,9:00 PM,27-04-2026,Available
+431,kalyan nagar,13.025,77.64,4.9,10663,Double,Girls,2,No,No,Yes,No,No,No,Yes,No,No,No,Yes,5,Veg,No,Yes,Yes,11:00 PM,06-05-2026,Available
+432,kothanur,13.06,77.65,6.5,12167,Single,Boys,2,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,3,Veg,No,Yes,No,9:00 PM,08-05-2026,Full
+433,kalyan nagar,13.025,77.64,4.9,7293,Double,Boys,3,No,No,No,Yes,No,No,No,Yes,Yes,No,Yes,1,Veg,Yes,No,Yes,11:00 PM,20-05-2026,Available
+434,kodigehalli,13.07,77.58,4.32,16060,Single,Girls,3,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,3,Veg,Yes,Yes,No,No Curfew,03-05-2026,Full
+435,sahakar nagar,13.06,77.58,3.36,9144,Double,Co-ed,2,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,2,Non-Veg,No,Yes,No,9:00 PM,21-04-2026,Available
+436,horamavu,13.03,77.67,8.12,4141,Triple,Boys,2,No,Yes,No,No,No,No,No,Yes,No,No,Yes,3,Veg,No,No,No,9:00 PM,17-05-2026,Full
+437,horamavu,13.03,77.67,8.12,5012,Triple,Boys,3,No,No,No,No,No,No,No,No,No,No,Yes,4,Non-Veg,Yes,Yes,No,11:00 PM,15-05-2026,Full
+438,nagawara,13.04,77.62,2.61,9939,Single,Girls,2,Yes,No,No,No,Yes,Yes,No,No,No,No,Yes,5,Both,No,Yes,Yes,11:00 PM,10-05-2026,Available
+439,bagalur,13.12,77.65,11.12,9388,Double,Girls,3,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,1,Veg,No,No,Yes,11:00 PM,05-05-2026,Available
+440,kalyan nagar,13.025,77.64,4.9,5506,Triple,Co-ed,2,No,Yes,No,No,Yes,No,No,No,Yes,Yes,No,3,Both,No,No,No,9:00 PM,21-04-2026,Available
+441,kodigehalli,13.07,77.58,4.32,7473,Triple,Co-ed,3,No,No,No,No,Yes,No,No,Yes,No,No,Yes,1,Veg,No,No,No,No Curfew,20-05-2026,Available
+442,kodigehalli,13.07,77.58,4.32,5515,Triple,Girls,2,Yes,No,No,No,No,Yes,No,Yes,No,No,Yes,1,Non-Veg,No,No,No,No Curfew,23-04-2026,Full
+443,rt nagar,13.022,77.594,1.48,4146,Triple,Boys,2,No,No,Yes,No,No,No,No,No,No,No,Yes,3,Both,No,Yes,No,9:00 PM,13-05-2026,Full
+444,hennur,13.05,77.64,5.06,9496,Single,Co-ed,2,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,4,Non-Veg,No,Yes,No,9:00 PM,14-05-2026,Available
+445,kothanur,13.06,77.65,6.5,5772,Triple,Girls,3,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,2,Non-Veg,No,Yes,No,9:00 PM,02-05-2026,Full
+446,rt nagar,13.022,77.594,1.48,18268,Single,Girls,2,No,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,3,Veg,Yes,Yes,No,11:00 PM,24-04-2026,Full
+447,kothanur,13.06,77.65,6.5,10774,Single,Boys,3,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,2,Non-Veg,No,Yes,No,9:00 PM,26-04-2026,Available
+448,yelahanka,13.1,77.596,7.22,6029,Double,Boys,3,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,1,Both,No,No,Yes,10:00 PM,03-05-2026,Available
+449,rt nagar,13.022,77.594,1.48,7028,Triple,Girls,2,No,No,Yes,No,No,No,No,No,No,No,Yes,2,Non-Veg,Yes,No,No,11:00 PM,09-05-2026,Available
+450,jakkur,13.08,77.6,5.01,14192,Single,Co-ed,2,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,5,Non-Veg,No,No,Yes,10:00 PM,30-04-2026,Available
+451,kothanur,13.06,77.65,6.5,6924,Double,Girls,3,Yes,No,No,No,No,No,No,No,No,No,Yes,1,Both,No,No,No,No Curfew,23-04-2026,Available
+452,kammanahalli,13.02,77.635,4.53,12574,Single,Girls,3,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,3,Non-Veg,No,No,No,11:00 PM,15-05-2026,Available
+453,bagalur,13.12,77.65,11.12,11142,Double,Co-ed,3,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,5,Veg,No,Yes,No,10:00 PM,30-04-2026,Full
+454,rt nagar,13.022,77.594,1.48,11744,Double,Boys,3,No,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,2,Both,No,No,Yes,10:00 PM,08-05-2026,Available
+455,nagawara,13.04,77.62,2.61,10690,Single,Boys,2,No,Yes,No,No,Yes,No,No,No,No,No,Yes,1,Non-Veg,Yes,Yes,No,11:00 PM,03-05-2026,Available
+456,kalyan nagar,13.025,77.64,4.9,7336,Triple,Boys,3,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Yes,4,Veg,Yes,Yes,Yes,10:00 PM,30-04-2026,Available
+457,hennur,13.05,77.64,5.06,10593,Double,Co-ed,2,No,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,1,Veg,No,No,No,10:00 PM,26-04-2026,Full
+458,nagawara,13.04,77.62,2.61,5624,Triple,Boys,2,Yes,No,No,No,No,No,No,No,No,No,Yes,1,Non-Veg,Yes,No,No,11:00 PM,15-05-2026,Available
+459,kalyan nagar,13.025,77.64,4.9,7633,Triple,Girls,3,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,1,Non-Veg,Yes,Yes,No,No Curfew,19-05-2026,Full
+460,sahakar nagar,13.06,77.58,3.36,7854,Triple,Co-ed,3,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,2,Both,No,No,Yes,11:00 PM,15-05-2026,Full
+461,yelahanka,13.1,77.596,7.22,16838,Single,Co-ed,3,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,1,Both,Yes,Yes,No,10:00 PM,15-05-2026,Available
+462,hennur,13.05,77.64,5.06,9811,Double,Co-ed,3,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,1,Veg,No,Yes,No,9:00 PM,22-04-2026,Available
+463,bagalur,13.12,77.65,11.12,8411,Double,Co-ed,2,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Yes,5,Non-Veg,No,No,Yes,11:00 PM,21-04-2026,Full
+464,bagalur,13.12,77.65,11.12,7485,Double,Girls,3,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,3,Both,Yes,Yes,No,11:00 PM,13-05-2026,Full
+465,nagawara,13.04,77.62,2.61,4565,Triple,Boys,3,No,No,No,No,No,No,No,No,No,No,Yes,5,Non-Veg,No,No,Yes,10:00 PM,07-05-2026,Full
+466,hebbal,13.035,77.597,0,6671,Double,Girls,2,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,2,Veg,Yes,Yes,No,9:00 PM,17-05-2026,Full
+467,kammanahalli,13.02,77.635,4.53,8539,Double,Girls,3,No,No,No,Yes,Yes,No,No,No,No,No,Yes,5,Non-Veg,No,Yes,No,10:00 PM,11-05-2026,Full
+468,kammanahalli,13.02,77.635,4.53,7353,Triple,Girls,2,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,1,Veg,Yes,No,No,11:00 PM,26-04-2026,Full
+469,horamavu,13.03,77.67,8.12,18611,Single,Girls,3,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,5,Both,No,Yes,Yes,9:00 PM,18-05-2026,Available
+470,nagawara,13.04,77.62,2.61,4466,Triple,Girls,3,No,No,No,No,No,No,No,Yes,No,No,Yes,2,Veg,Yes,No,No,10:00 PM,07-05-2026,Available
+471,kalyan nagar,13.025,77.64,4.9,6011,Triple,Co-ed,2,No,No,No,No,No,No,No,No,Yes,No,Yes,4,Veg,Yes,Yes,No,10:00 PM,16-05-2026,Available
+472,jakkur,13.08,77.6,5.01,5110,Triple,Co-ed,3,No,No,No,No,No,No,No,No,No,No,Yes,2,Non-Veg,No,Yes,No,No Curfew,27-04-2026,Available
+473,rt nagar,13.022,77.594,1.48,7695,Triple,Girls,3,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,2,Both,No,Yes,No,No Curfew,19-05-2026,Full
+474,hebbal,13.035,77.597,0,11373,Single,Boys,3,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,3,Both,No,Yes,No,11:00 PM,14-05-2026,Available
+475,hennur,13.05,77.64,5.06,7181,Triple,Co-ed,2,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,1,Non-Veg,No,Yes,Yes,No Curfew,17-05-2026,Full
+476,kammanahalli,13.02,77.635,4.53,7931,Triple,Boys,3,No,No,No,No,No,Yes,Yes,No,No,No,Yes,3,Non-Veg,No,Yes,No,9:00 PM,25-04-2026,Available
+477,kodigehalli,13.07,77.58,4.32,4442,Triple,Girls,2,No,No,No,No,No,No,No,No,Yes,No,Yes,2,Non-Veg,No,No,No,10:00 PM,05-05-2026,Available
+478,vidyaranyapura,13.08,77.55,7.22,16205,Single,Girls,3,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,5,Veg,No,Yes,Yes,10:00 PM,23-04-2026,Full
+479,thanisandra,13.05,77.62,3.05,15176,Single,Girls,3,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,2,Non-Veg,No,Yes,Yes,9:00 PM,15-05-2026,Full
+480,nagawara,13.04,77.62,2.61,5868,Triple,Boys,2,No,No,No,Yes,No,No,No,No,No,Yes,Yes,3,Non-Veg,No,No,No,11:00 PM,24-04-2026,Full
+481,thanisandra,13.05,77.62,3.05,7444,Triple,Girls,2,No,No,No,Yes,No,No,No,Yes,Yes,No,Yes,5,Both,No,No,No,11:00 PM,04-05-2026,Available
+482,jakkur,13.08,77.6,5.01,9271,Double,Girls,3,No,No,No,No,No,Yes,Yes,No,No,No,Yes,5,Both,No,Yes,Yes,No Curfew,18-05-2026,Full
+483,vidyaranyapura,13.08,77.55,7.22,4485,Triple,Girls,2,No,No,No,Yes,No,No,No,No,No,No,Yes,5,Non-Veg,No,No,No,11:00 PM,04-05-2026,Full
+484,kodigehalli,13.07,77.58,4.32,9523,Double,Boys,2,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,3,Non-Veg,No,Yes,No,11:00 PM,09-05-2026,Full
+485,kothanur,13.06,77.65,6.5,10329,Single,Co-ed,2,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,3,Both,Yes,No,Yes,10:00 PM,26-04-2026,Full
+486,nagawara,13.04,77.62,2.61,14876,Single,Co-ed,3,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,4,Veg,Yes,No,Yes,11:00 PM,02-05-2026,Available
+487,thanisandra,13.05,77.62,3.05,6696,Triple,Girls,2,No,No,No,No,No,No,No,No,Yes,Yes,Yes,3,Both,No,No,No,10:00 PM,12-05-2026,Full
+488,yelahanka,13.1,77.596,7.22,18996,Single,Co-ed,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,2,Non-Veg,No,Yes,No,11:00 PM,05-05-2026,Full
+489,kammanahalli,13.02,77.635,4.53,18255,Single,Girls,3,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,4,Non-Veg,No,Yes,Yes,9:00 PM,20-05-2026,Available
+490,hebbal,13.035,77.597,0,9480,Single,Boys,2,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,1,Veg,No,Yes,No,11:00 PM,25-04-2026,Full
+491,bagalur,13.12,77.65,11.12,5082,Triple,Co-ed,3,Yes,No,No,No,No,No,No,No,No,No,No,5,Veg,No,Yes,No,9:00 PM,10-05-2026,Available
+492,kodigehalli,13.07,77.58,4.32,7137,Double,Girls,3,No,Yes,No,No,No,No,No,No,No,Yes,Yes,3,Both,No,No,No,No Curfew,09-05-2026,Full
+493,hebbal,13.035,77.597,0,10021,Double,Boys,2,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,1,Veg,No,Yes,Yes,No Curfew,30-04-2026,Full
+494,rt nagar,13.022,77.594,1.48,18911,Single,Boys,3,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,2,Both,No,Yes,No,10:00 PM,12-05-2026,Available
+495,thanisandra,13.05,77.62,3.05,16171,Single,Boys,3,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,1,Veg,No,No,No,10:00 PM,12-05-2026,Available
+496,sahakar nagar,13.06,77.58,3.36,6594,Triple,Co-ed,2,No,No,No,No,No,No,No,Yes,No,Yes,No,1,Non-Veg,No,Yes,No,No Curfew,14-05-2026,Full
+497,horamavu,13.03,77.67,8.12,9109,Double,Co-ed,2,No,Yes,No,No,No,No,No,No,Yes,No,No,4,Both,No,Yes,No,11:00 PM,08-05-2026,Full
+498,thanisandra,13.05,77.62,3.05,7690,Double,Girls,2,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,2,Both,No,Yes,Yes,9:00 PM,14-05-2026,Full
+499,yelahanka,13.1,77.596,7.22,5771,Triple,Boys,2,No,No,No,No,No,Yes,Yes,No,No,No,No,4,Non-Veg,No,Yes,No,No Curfew,24-04-2026,Available
+500,vidyaranyapura,13.08,77.55,7.22,5756,Triple,Co-ed,2,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,3,Both,No,Yes,Yes,No Curfew,15-05-2026,Available
+501,kammanahalli,13.02,77.635,4.53,10864,Single,Co-ed,3,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,5,Non-Veg,Yes,No,No,No Curfew,01-05-2026,Full
+502,jakkur,13.08,77.6,5.01,9585,Double,Co-ed,3,No,No,No,Yes,No,No,No,Yes,Yes,No,Yes,4,Veg,No,Yes,No,10:00 PM,17-05-2026,Full
+503,kammanahalli,13.02,77.635,4.53,10737,Double,Boys,2,No,Yes,No,Yes,No,No,No,No,Yes,No,Yes,3,Veg,No,Yes,No,11:00 PM,09-05-2026,Available
+504,kalyan nagar,13.025,77.64,4.9,15305,Single,Boys,3,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,2,Both,No,Yes,No,10:00 PM,16-05-2026,Available
+505,thanisandra,13.05,77.62,3.05,9185,Double,Boys,2,No,Yes,No,No,No,No,No,Yes,Yes,No,No,5,Non-Veg,No,Yes,Yes,9:00 PM,25-04-2026,Full
+506,horamavu,13.03,77.67,8.12,4085,Triple,Girls,2,No,No,No,No,No,No,Yes,No,No,No,Yes,2,Veg,Yes,No,Yes,No Curfew,13-05-2026,Full
+507,sahakar nagar,13.06,77.58,3.36,14672,Single,Girls,3,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,1,Veg,No,No,Yes,10:00 PM,12-05-2026,Available
+508,vidyaranyapura,13.08,77.55,7.22,7941,Double,Girls,3,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,4,Veg,No,Yes,No,9:00 PM,27-04-2026,Available
+509,jakkur,13.08,77.6,5.01,11234,Double,Girls,3,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,3,Non-Veg,Yes,Yes,Yes,10:00 PM,11-05-2026,Full
+510,jakkur,13.08,77.6,5.01,10692,Double,Girls,3,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,5,Non-Veg,No,Yes,Yes,9:00 PM,19-05-2026,Available
+511,rt nagar,13.022,77.594,1.48,4264,Triple,Co-ed,3,No,No,No,No,No,Yes,No,No,Yes,No,Yes,1,Both,Yes,No,Yes,No Curfew,17-05-2026,Full
+512,kalyan nagar,13.025,77.64,4.9,12631,Single,Boys,2,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,No,3,Both,Yes,No,No,9:00 PM,18-05-2026,Full
+513,kodigehalli,13.07,77.58,4.32,7857,Triple,Girls,3,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,5,Both,No,Yes,Yes,11:00 PM,27-04-2026,Available
+514,rt nagar,13.022,77.594,1.48,4528,Triple,Girls,2,No,No,No,No,No,No,No,No,No,No,Yes,3,Non-Veg,No,Yes,No,11:00 PM,25-04-2026,Available
+515,bagalur,13.12,77.65,11.12,14644,Single,Girls,3,Yes,No,Yes,No,No,No,No,No,No,No,Yes,4,Both,Yes,No,No,No Curfew,11-05-2026,Available
+516,nagawara,13.04,77.62,2.61,6345,Triple,Co-ed,3,No,No,Yes,No,No,Yes,No,No,No,No,Yes,5,Both,No,Yes,Yes,No Curfew,11-05-2026,Full
+517,bagalur,13.12,77.65,11.12,8106,Double,Boys,3,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,3,Non-Veg,No,No,No,10:00 PM,18-05-2026,Available
+518,thanisandra,13.05,77.62,3.05,5757,Triple,Co-ed,3,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,4,Non-Veg,No,Yes,No,11:00 PM,25-04-2026,Available
+519,kammanahalli,13.02,77.635,4.53,16494,Single,Co-ed,3,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,1,Veg,Yes,No,No,10:00 PM,09-05-2026,Available
+520,horamavu,13.03,77.67,8.12,4138,Triple,Girls,3,Yes,No,No,No,No,No,No,Yes,No,No,Yes,5,Non-Veg,No,Yes,No,No Curfew,27-04-2026,Full
+521,hebbal,13.035,77.597,0,17328,Single,Boys,2,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,2,Both,No,Yes,Yes,No Curfew,13-05-2026,Available
+522,horamavu,13.03,77.67,8.12,13570,Single,Girls,2,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,5,Veg,No,Yes,No,9:00 PM,24-04-2026,Available
+523,yelahanka,13.1,77.596,7.22,17775,Single,Co-ed,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,Both,No,No,Yes,No Curfew,29-04-2026,Full
+524,nagawara,13.04,77.62,2.61,9255,Single,Boys,3,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes,4,Non-Veg,No,Yes,No,11:00 PM,04-05-2026,Full
+525,kammanahalli,13.02,77.635,4.53,4582,Triple,Boys,3,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,2,Both,No,Yes,Yes,9:00 PM,07-05-2026,Available
+526,jakkur,13.08,77.6,5.01,13829,Single,Co-ed,2,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,4,Both,No,Yes,No,9:00 PM,25-04-2026,Full
+527,vidyaranyapura,13.08,77.55,7.22,14556,Single,Girls,3,Yes,No,No,Yes,No,No,No,Yes,Yes,No,Yes,4,Veg,No,Yes,Yes,11:00 PM,10-05-2026,Full
+528,hennur,13.05,77.64,5.06,19238,Single,Co-ed,2,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,5,Non-Veg,Yes,No,Yes,11:00 PM,12-05-2026,Full
+529,kodigehalli,13.07,77.58,4.32,14044,Single,Co-ed,2,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,1,Non-Veg,Yes,Yes,Yes,No Curfew,04-05-2026,Available
+530,kothanur,13.06,77.65,6.5,9719,Double,Girls,3,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,5,Both,No,No,Yes,11:00 PM,13-05-2026,Full
+531,kothanur,13.06,77.65,6.5,12853,Single,Girls,2,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Non-Veg,No,Yes,No,No Curfew,27-04-2026,Available
+532,nagawara,13.04,77.62,2.61,19542,Single,Boys,2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,5,Non-Veg,Yes,Yes,No,11:00 PM,17-05-2026,Full
+533,nagawara,13.04,77.62,2.61,4256,Triple,Girls,3,No,No,No,No,No,No,No,No,No,No,Yes,5,Veg,Yes,Yes,No,10:00 PM,07-05-2026,Full
+534,kalyan nagar,13.025,77.64,4.9,6340,Double,Girls,2,No,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,5,Non-Veg,No,Yes,No,11:00 PM,28-04-2026,Available
+535,hennur,13.05,77.64,5.06,18160,Single,Co-ed,3,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Both,No,No,No,10:00 PM,25-04-2026,Available
+536,bagalur,13.12,77.65,11.12,15629,Single,Boys,2,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,5,Veg,Yes,No,No,No Curfew,30-04-2026,Available
+537,bagalur,13.12,77.65,11.12,6622,Triple,Co-ed,3,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,1,Veg,No,Yes,Yes,11:00 PM,22-04-2026,Full
+538,kalyan nagar,13.025,77.64,4.9,15125,Single,Girls,3,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,2,Veg,No,Yes,No,No Curfew,09-05-2026,Full
+539,nagawara,13.04,77.62,2.61,7282,Double,Co-ed,2,No,No,No,Yes,No,Yes,No,No,Yes,No,Yes,2,Non-Veg,No,Yes,No,No Curfew,17-05-2026,Full
+540,hebbal,13.035,77.597,0,10200,Double,Boys,3,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,5,Non-Veg,Yes,No,No,11:00 PM,23-04-2026,Full
+541,kalyan nagar,13.025,77.64,4.9,5906,Triple,Co-ed,2,No,No,No,No,No,No,No,Yes,No,No,No,3,Veg,No,No,No,11:00 PM,05-05-2026,Available
+542,sahakar nagar,13.06,77.58,3.36,19634,Single,Girls,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,3,Both,No,No,No,No Curfew,22-04-2026,Full
+543,kothanur,13.06,77.65,6.5,10816,Single,Girls,3,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,5,Veg,Yes,Yes,No,9:00 PM,18-05-2026,Full
+544,yelahanka,13.1,77.596,7.22,4025,Triple,Girls,3,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,3,Both,No,Yes,No,11:00 PM,09-05-2026,Available
+545,sahakar nagar,13.06,77.58,3.36,9331,Double,Boys,3,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,4,Both,No,Yes,Yes,10:00 PM,12-05-2026,Full
+546,kodigehalli,13.07,77.58,4.32,9107,Single,Co-ed,2,No,No,No,Yes,No,No,No,No,Yes,No,Yes,1,Non-Veg,Yes,Yes,No,9:00 PM,24-04-2026,Full
+547,vidyaranyapura,13.08,77.55,7.22,4848,Triple,Co-ed,3,No,No,No,No,No,No,No,Yes,No,No,Yes,2,Both,Yes,Yes,Yes,No Curfew,27-04-2026,Available
+548,kalyan nagar,13.025,77.64,4.9,16963,Single,Boys,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,5,Non-Veg,Yes,Yes,No,10:00 PM,25-04-2026,Full
+549,hennur,13.05,77.64,5.06,7007,Triple,Boys,2,Yes,Yes,No,No,No,No,No,No,Yes,No,Yes,1,Both,Yes,Yes,Yes,10:00 PM,25-04-2026,Full
+550,kammanahalli,13.02,77.635,4.53,4588,Triple,Girls,3,No,No,No,No,No,Yes,No,No,No,Yes,Yes,4,Veg,No,No,Yes,No Curfew,11-05-2026,Available
+551,rt nagar,13.022,77.594,1.48,7948,Triple,Boys,2,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,4,Veg,No,Yes,No,No Curfew,21-04-2026,Available
+552,horamavu,13.03,77.67,8.12,15201,Single,Girls,3,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,5,Both,No,Yes,Yes,10:00 PM,02-05-2026,Full
+553,hennur,13.05,77.64,5.06,9288,Single,Co-ed,3,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,3,Non-Veg,No,Yes,No,11:00 PM,11-05-2026,Available
+554,nagawara,13.04,77.62,2.61,9506,Double,Co-ed,3,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,5,Both,No,Yes,No,9:00 PM,09-05-2026,Full
+555,horamavu,13.03,77.67,8.12,7753,Triple,Girls,3,No,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,4,Both,Yes,Yes,Yes,11:00 PM,16-05-2026,Available
+556,kothanur,13.06,77.65,6.5,13839,Single,Girls,3,No,No,No,No,Yes,No,No,Yes,No,Yes,Yes,3,Non-Veg,No,Yes,No,9:00 PM,05-05-2026,Full
+557,kodigehalli,13.07,77.58,4.32,11654,Single,Boys,3,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,4,Veg,No,Yes,No,9:00 PM,02-05-2026,Available
+558,sahakar nagar,13.06,77.58,3.36,6278,Triple,Girls,3,No,No,Yes,No,No,No,No,No,Yes,No,Yes,5,Both,No,Yes,No,9:00 PM,22-04-2026,Full
+559,kodigehalli,13.07,77.58,4.32,19038,Single,Co-ed,3,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,5,Veg,No,Yes,No,No Curfew,16-05-2026,Available
+560,kothanur,13.06,77.65,6.5,16254,Single,Boys,2,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,1,Non-Veg,No,Yes,Yes,10:00 PM,23-04-2026,Available
+561,hebbal,13.035,77.597,0,6477,Triple,Girls,3,No,Yes,No,No,No,No,No,Yes,No,Yes,Yes,5,Non-Veg,No,Yes,No,11:00 PM,08-05-2026,Available
+562,nagawara,13.04,77.62,2.61,16145,Single,Boys,2,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,1,Veg,No,No,Yes,10:00 PM,19-05-2026,Available
+563,horamavu,13.03,77.67,8.12,10627,Double,Boys,3,Yes,No,No,No,No,Yes,No,No,Yes,No,Yes,3,Both,No,No,No,No Curfew,21-04-2026,Full
+564,sahakar nagar,13.06,77.58,3.36,7996,Triple,Co-ed,3,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,5,Non-Veg,No,No,No,10:00 PM,06-05-2026,Full
+565,hennur,13.05,77.64,5.06,4496,Triple,Girls,3,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes,3,Veg,No,Yes,No,11:00 PM,13-05-2026,Full
+566,kothanur,13.06,77.65,6.5,16235,Single,Co-ed,3,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,4,Non-Veg,No,Yes,No,11:00 PM,12-05-2026,Available
+567,kalyan nagar,13.025,77.64,4.9,6908,Double,Girls,2,No,No,Yes,No,No,No,No,No,No,No,No,2,Both,No,Yes,No,9:00 PM,28-04-2026,Full
+568,hennur,13.05,77.64,5.06,5654,Triple,Co-ed,2,No,No,No,No,No,No,No,No,No,No,Yes,2,Veg,Yes,No,Yes,10:00 PM,22-04-2026,Available
+569,nagawara,13.04,77.62,2.61,4208,Triple,Co-ed,3,No,No,No,No,No,No,No,No,Yes,No,Yes,2,Non-Veg,No,Yes,No,9:00 PM,15-05-2026,Available
+570,vidyaranyapura,13.08,77.55,7.22,9972,Single,Co-ed,3,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,4,Veg,No,Yes,Yes,9:00 PM,27-04-2026,Available
+571,sahakar nagar,13.06,77.58,3.36,7881,Triple,Co-ed,3,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,3,Veg,No,No,No,No Curfew,28-04-2026,Full
+572,kammanahalli,13.02,77.635,4.53,7638,Triple,Boys,2,No,No,No,No,No,No,No,No,No,No,No,1,Veg,No,No,No,10:00 PM,30-04-2026,Full
+573,jakkur,13.08,77.6,5.01,5197,Triple,Boys,3,No,No,No,No,No,No,No,No,Yes,Yes,Yes,1,Both,Yes,No,No,No Curfew,30-04-2026,Available
+574,rt nagar,13.022,77.594,1.48,6283,Triple,Boys,3,No,No,No,No,No,No,No,Yes,No,Yes,No,1,Veg,No,No,No,11:00 PM,01-05-2026,Available
+575,hennur,13.05,77.64,5.06,5351,Triple,Girls,3,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,3,Veg,No,Yes,Yes,11:00 PM,07-05-2026,Available
+576,jakkur,13.08,77.6,5.01,6951,Double,Girls,2,No,No,No,Yes,No,No,No,Yes,No,No,Yes,3,Veg,No,Yes,Yes,10:00 PM,04-05-2026,Available
+577,sahakar nagar,13.06,77.58,3.36,10064,Double,Girls,2,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,2,Veg,No,Yes,No,9:00 PM,01-05-2026,Available
+578,kothanur,13.06,77.65,6.5,7647,Double,Girls,2,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,3,Non-Veg,No,Yes,No,10:00 PM,30-04-2026,Available
+579,hennur,13.05,77.64,5.06,7330,Triple,Girls,3,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,3,Veg,No,Yes,Yes,9:00 PM,18-05-2026,Available
+580,sahakar nagar,13.06,77.58,3.36,7708,Triple,Girls,2,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,1,Veg,Yes,Yes,No,11:00 PM,17-05-2026,Full
+581,yelahanka,13.1,77.596,7.22,11306,Single,Co-ed,3,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,5,Veg,No,No,No,10:00 PM,07-05-2026,Full
+582,horamavu,13.03,77.67,8.12,10646,Single,Girls,3,No,No,No,No,No,No,No,No,No,No,Yes,2,Both,No,Yes,No,10:00 PM,11-05-2026,Full
+583,kammanahalli,13.02,77.635,4.53,10487,Single,Girls,2,No,No,No,No,No,Yes,No,Yes,No,No,Yes,2,Both,No,No,Yes,10:00 PM,24-04-2026,Available
+584,kalyan nagar,13.025,77.64,4.9,10663,Single,Co-ed,3,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,2,Non-Veg,No,Yes,Yes,11:00 PM,06-05-2026,Full
+585,yelahanka,13.1,77.596,7.22,18797,Single,Girls,3,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,2,Non-Veg,No,Yes,No,10:00 PM,17-05-2026,Full
+586,thanisandra,13.05,77.62,3.05,4600,Triple,Girls,3,No,No,No,No,No,No,No,No,No,No,Yes,2,Both,Yes,No,No,No Curfew,02-05-2026,Available
+587,jakkur,13.08,77.6,5.01,11781,Double,Boys,2,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,4,Non-Veg,No,Yes,Yes,No Curfew,03-05-2026,Available
+588,kammanahalli,13.02,77.635,4.53,8567,Double,Co-ed,2,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes,3,Both,No,Yes,Yes,9:00 PM,20-05-2026,Available
+589,vidyaranyapura,13.08,77.55,7.22,17804,Single,Girls,2,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,1,Non-Veg,No,Yes,Yes,11:00 PM,07-05-2026,Available
+590,nagawara,13.04,77.62,2.61,11987,Double,Boys,3,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,5,Non-Veg,Yes,Yes,No,9:00 PM,07-05-2026,Available
+591,vidyaranyapura,13.08,77.55,7.22,15412,Single,Girls,3,No,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,5,Both,No,No,Yes,No Curfew,12-05-2026,Full
+592,bagalur,13.12,77.65,11.12,6815,Double,Co-ed,2,No,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,3,Non-Veg,No,Yes,No,10:00 PM,11-05-2026,Available
+593,jakkur,13.08,77.6,5.01,10826,Double,Boys,3,No,Yes,No,Yes,No,No,No,No,No,No,Yes,5,Non-Veg,No,No,Yes,9:00 PM,26-04-2026,Full
+594,hebbal,13.035,77.597,0,7178,Triple,Girls,2,No,No,No,No,Yes,Yes,No,No,No,No,Yes,1,Veg,Yes,Yes,No,9:00 PM,24-04-2026,Available
+595,bagalur,13.12,77.65,11.12,8558,Double,Co-ed,2,Yes,No,Yes,No,No,No,Yes,Yes,No,No,Yes,4,Both,No,No,Yes,11:00 PM,04-05-2026,Available
+596,kammanahalli,13.02,77.635,4.53,7505,Triple,Co-ed,3,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,4,Veg,No,No,No,10:00 PM,17-05-2026,Available
+597,bagalur,13.12,77.65,11.12,6037,Triple,Girls,2,Yes,No,No,Yes,No,No,Yes,No,No,No,Yes,3,Veg,No,No,No,11:00 PM,06-05-2026,Available
+598,hennur,13.05,77.64,5.06,4578,Triple,Co-ed,3,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,1,Both,No,No,No,No Curfew,22-04-2026,Full
+599,kammanahalli,13.02,77.635,4.53,4516,Triple,Girls,2,No,Yes,No,No,No,No,Yes,No,No,No,Yes,1,Veg,No,No,No,9:00 PM,05-05-2026,Full
+600,hebbal,13.035,77.597,0,18088,Single,Co-ed,2,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,1,Non-Veg,Yes,Yes,No,10:00 PM,18-05-2026,Available
+601,kothanur,13.06,77.65,6.5,7623,Double,Boys,2,No,No,No,No,No,Yes,No,No,Yes,No,Yes,2,Veg,Yes,Yes,Yes,11:00 PM,27-04-2026,Available
+602,vidyaranyapura,13.08,77.55,7.22,7863,Triple,Boys,2,Yes,Yes,No,No,No,No,No,No,No,Yes,No,3,Veg,No,No,No,No Curfew,20-05-2026,Available
+603,kodigehalli,13.07,77.58,4.32,6469,Triple,Boys,2,Yes,No,No,No,No,No,No,No,No,No,Yes,4,Veg,No,Yes,No,9:00 PM,05-05-2026,Available
+604,kothanur,13.06,77.65,6.5,10161,Double,Girls,3,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,2,Both,No,No,No,11:00 PM,27-04-2026,Full
+605,hennur,13.05,77.64,5.06,10316,Double,Co-ed,3,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,5,Veg,No,No,Yes,No Curfew,14-05-2026,Available
+606,kalyan nagar,13.025,77.64,4.9,6005,Triple,Boys,2,Yes,Yes,No,No,No,No,No,No,No,No,Yes,2,Veg,No,Yes,No,9:00 PM,08-05-2026,Full
+607,kalyan nagar,13.025,77.64,4.9,7678,Triple,Boys,3,No,Yes,No,No,No,No,No,Yes,Yes,No,No,3,Veg,No,No,No,No Curfew,23-04-2026,Full
+608,nagawara,13.04,77.62,2.61,6738,Triple,Boys,2,Yes,No,No,No,No,No,No,No,No,Yes,Yes,1,Both,No,Yes,Yes,No Curfew,12-05-2026,Available
+609,yelahanka,13.1,77.596,7.22,11696,Single,Girls,3,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,5,Both,Yes,Yes,Yes,No Curfew,28-04-2026,Available
+610,kammanahalli,13.02,77.635,4.53,10848,Single,Boys,2,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,3,Veg,No,Yes,Yes,11:00 PM,02-05-2026,Full
+611,rt nagar,13.022,77.594,1.48,5758,Triple,Co-ed,3,No,Yes,No,No,No,Yes,No,No,Yes,No,Yes,4,Veg,No,Yes,Yes,No Curfew,07-05-2026,Full
+612,horamavu,13.03,77.67,8.12,7343,Triple,Girls,2,No,No,Yes,No,No,No,No,No,Yes,No,Yes,2,Non-Veg,No,Yes,Yes,No Curfew,14-05-2026,Full
+613,jakkur,13.08,77.6,5.01,14266,Single,Boys,2,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,1,Veg,Yes,Yes,No,11:00 PM,07-05-2026,Available
+614,kalyan nagar,13.025,77.64,4.9,7064,Triple,Girls,3,Yes,No,Yes,No,No,No,No,No,No,No,Yes,4,Non-Veg,No,Yes,No,9:00 PM,23-04-2026,Available
+615,thanisandra,13.05,77.62,3.05,14110,Single,Girls,3,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,2,Both,No,Yes,No,10:00 PM,30-04-2026,Full
+616,hebbal,13.035,77.597,0,10052,Double,Co-ed,2,No,Yes,No,No,No,No,No,No,Yes,No,Yes,2,Veg,No,Yes,Yes,10:00 PM,06-05-2026,Available
+617,sahakar nagar,13.06,77.58,3.36,5526,Triple,Boys,2,No,Yes,No,No,No,No,No,No,No,Yes,Yes,1,Non-Veg,No,No,No,11:00 PM,11-05-2026,Full
+618,kothanur,13.06,77.65,6.5,10747,Double,Girls,2,No,No,No,Yes,No,No,Yes,No,Yes,No,Yes,1,Non-Veg,No,Yes,Yes,No Curfew,03-05-2026,Full
+619,sahakar nagar,13.06,77.58,3.36,6343,Triple,Co-ed,3,No,Yes,No,No,No,No,No,No,No,No,Yes,2,Both,No,No,Yes,10:00 PM,09-05-2026,Available
+620,hebbal,13.035,77.597,0,4591,Triple,Boys,2,No,No,Yes,No,No,No,No,No,No,No,No,5,Veg,No,No,Yes,No Curfew,24-04-2026,Available
+621,thanisandra,13.05,77.62,3.05,7198,Double,Boys,2,No,No,No,No,No,No,No,No,No,Yes,Yes,3,Veg,No,Yes,Yes,9:00 PM,02-05-2026,Full
+622,yelahanka,13.1,77.596,7.22,11392,Double,Co-ed,2,Yes,No,Yes,No,Yes,No,No,Yes,No,No,Yes,4,Both,No,Yes,Yes,No Curfew,13-05-2026,Available
+623,rt nagar,13.022,77.594,1.48,6443,Double,Girls,2,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,5,Veg,Yes,No,No,No Curfew,15-05-2026,Available
+624,kodigehalli,13.07,77.58,4.32,5134,Triple,Boys,2,No,No,No,No,No,No,No,No,No,No,Yes,3,Veg,No,Yes,No,10:00 PM,18-05-2026,Available
+625,vidyaranyapura,13.08,77.55,7.22,7700,Triple,Boys,2,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,5,Both,No,No,Yes,No Curfew,14-05-2026,Full
+626,horamavu,13.03,77.67,8.12,11899,Single,Girls,3,No,Yes,No,No,Yes,No,No,Yes,Yes,No,No,5,Non-Veg,No,No,Yes,9:00 PM,15-05-2026,Available
+627,kalyan nagar,13.025,77.64,4.9,10508,Single,Girls,2,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,1,Non-Veg,No,No,No,9:00 PM,17-05-2026,Full
+628,rt nagar,13.022,77.594,1.48,11386,Double,Co-ed,2,No,Yes,No,No,No,No,No,No,No,Yes,Yes,1,Veg,Yes,Yes,Yes,No Curfew,15-05-2026,Available
+629,kalyan nagar,13.025,77.64,4.9,8044,Double,Boys,2,No,No,No,No,No,No,No,No,Yes,No,Yes,3,Veg,Yes,No,No,9:00 PM,04-05-2026,Available
+630,kalyan nagar,13.025,77.64,4.9,4199,Triple,Co-ed,3,No,Yes,No,No,No,No,No,No,Yes,No,Yes,2,Non-Veg,No,Yes,No,11:00 PM,13-05-2026,Full
+631,nagawara,13.04,77.62,2.61,7844,Double,Girls,2,No,No,No,Yes,No,No,No,No,No,Yes,Yes,4,Non-Veg,No,Yes,Yes,11:00 PM,17-05-2026,Available
+632,hennur,13.05,77.64,5.06,10014,Double,Girls,3,No,No,No,No,No,Yes,No,No,Yes,No,Yes,4,Both,No,Yes,No,10:00 PM,10-05-2026,Available
+633,horamavu,13.03,77.67,8.12,7120,Double,Boys,2,No,Yes,No,No,No,No,No,No,Yes,No,Yes,1,Both,No,No,No,11:00 PM,03-05-2026,Full
+634,sahakar nagar,13.06,77.58,3.36,12730,Single,Co-ed,3,Yes,Yes,No,Yes,No,No,No,No,Yes,No,Yes,3,Veg,Yes,No,No,10:00 PM,04-05-2026,Full
+635,kodigehalli,13.07,77.58,4.32,8103,Double,Boys,2,No,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,2,Both,Yes,No,No,10:00 PM,03-05-2026,Available
+636,kodigehalli,13.07,77.58,4.32,6908,Triple,Girls,3,Yes,No,No,No,No,No,No,No,No,No,Yes,4,Both,No,Yes,Yes,10:00 PM,23-04-2026,Full
+637,hennur,13.05,77.64,5.06,10915,Double,Co-ed,3,No,No,Yes,No,Yes,No,No,Yes,No,No,Yes,1,Both,No,Yes,Yes,11:00 PM,11-05-2026,Available
+638,hennur,13.05,77.64,5.06,5550,Triple,Girls,3,No,No,No,No,No,No,No,No,No,No,Yes,4,Veg,Yes,Yes,Yes,10:00 PM,11-05-2026,Available
+639,bagalur,13.12,77.65,11.12,6367,Double,Girls,3,No,No,Yes,No,No,No,No,Yes,No,No,Yes,3,Non-Veg,No,Yes,Yes,11:00 PM,01-05-2026,Full
+640,sahakar nagar,13.06,77.58,3.36,14967,Single,Girls,3,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Yes,1,Both,No,Yes,Yes,11:00 PM,25-04-2026,Available
+641,hebbal,13.035,77.597,0,10087,Double,Boys,2,No,No,No,No,No,No,No,Yes,Yes,No,Yes,3,Veg,No,Yes,No,No Curfew,08-05-2026,Full
+642,nagawara,13.04,77.62,2.61,16962,Single,Girls,3,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,5,Both,Yes,Yes,No,10:00 PM,18-05-2026,Full
+643,bagalur,13.12,77.65,11.12,11433,Single,Co-ed,2,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,5,Veg,No,Yes,No,No Curfew,18-05-2026,Full
+644,horamavu,13.03,77.67,8.12,11010,Single,Girls,2,Yes,No,Yes,No,No,No,No,Yes,Yes,No,Yes,1,Veg,No,No,No,10:00 PM,28-04-2026,Available
+645,kodigehalli,13.07,77.58,4.32,15980,Single,Co-ed,3,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,4,Both,Yes,No,No,11:00 PM,14-05-2026,Full
+646,kodigehalli,13.07,77.58,4.32,7582,Triple,Boys,3,Yes,No,Yes,No,No,No,No,Yes,No,No,No,1,Veg,No,No,No,9:00 PM,28-04-2026,Available
+647,hennur,13.05,77.64,5.06,7179,Triple,Co-ed,2,Yes,No,No,No,No,No,No,No,Yes,No,Yes,4,Veg,No,No,No,No Curfew,14-05-2026,Full
+648,horamavu,13.03,77.67,8.12,8333,Double,Boys,3,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,1,Both,No,Yes,No,11:00 PM,04-05-2026,Full
+649,rt nagar,13.022,77.594,1.48,4286,Triple,Boys,3,No,No,No,Yes,No,No,Yes,No,No,Yes,Yes,3,Non-Veg,No,No,Yes,9:00 PM,26-04-2026,Available
+650,vidyaranyapura,13.08,77.55,7.22,9465,Double,Boys,3,No,Yes,No,No,No,No,No,Yes,No,No,Yes,5,Both,Yes,No,Yes,No Curfew,23-04-2026,Available
+651,rt nagar,13.022,77.594,1.48,7071,Triple,Co-ed,2,No,No,No,Yes,No,Yes,No,No,Yes,No,Yes,5,Non-Veg,No,Yes,No,9:00 PM,29-04-2026,Full
+652,yelahanka,13.1,77.596,7.22,8808,Double,Boys,3,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,2,Both,Yes,No,No,11:00 PM,03-05-2026,Full
+653,horamavu,13.03,77.67,8.12,7216,Double,Girls,3,Yes,No,No,No,Yes,No,No,Yes,No,No,Yes,1,Both,Yes,Yes,No,No Curfew,27-04-2026,Full
+654,kalyan nagar,13.025,77.64,4.9,8564,Double,Co-ed,2,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,2,Both,No,No,No,10:00 PM,28-04-2026,Available
+655,yelahanka,13.1,77.596,7.22,7885,Double,Girls,2,No,No,No,No,No,No,No,No,No,No,Yes,5,Both,Yes,Yes,Yes,10:00 PM,03-05-2026,Available
+656,vidyaranyapura,13.08,77.55,7.22,6932,Double,Boys,3,No,No,No,Yes,No,No,No,No,No,No,Yes,1,Veg,Yes,No,No,No Curfew,07-05-2026,Available
+657,hebbal,13.035,77.597,0,9445,Double,Co-ed,2,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,2,Non-Veg,No,Yes,Yes,11:00 PM,07-05-2026,Full
+658,thanisandra,13.05,77.62,3.05,15867,Single,Boys,3,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,4,Veg,No,No,No,11:00 PM,11-05-2026,Available
+659,vidyaranyapura,13.08,77.55,7.22,16230,Single,Co-ed,3,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,3,Non-Veg,No,Yes,No,9:00 PM,08-05-2026,Available
+660,kalyan nagar,13.025,77.64,4.9,18314,Single,Co-ed,3,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,3,Non-Veg,No,Yes,No,No Curfew,02-05-2026,Available
+661,vidyaranyapura,13.08,77.55,7.22,7519,Double,Girls,2,No,No,No,No,No,No,No,Yes,No,No,Yes,3,Non-Veg,No,Yes,Yes,10:00 PM,04-05-2026,Full
+662,horamavu,13.03,77.67,8.12,9800,Single,Girls,3,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,2,Veg,No,Yes,Yes,9:00 PM,24-04-2026,Available
+663,vidyaranyapura,13.08,77.55,7.22,11861,Single,Co-ed,2,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,5,Non-Veg,No,No,Yes,9:00 PM,26-04-2026,Available
+664,rt nagar,13.022,77.594,1.48,19596,Single,Co-ed,2,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,5,Both,No,No,No,10:00 PM,04-05-2026,Full
+665,hennur,13.05,77.64,5.06,7845,Double,Co-ed,2,No,No,No,No,Yes,No,No,No,No,No,Yes,1,Veg,No,Yes,Yes,9:00 PM,14-05-2026,Full
+666,bagalur,13.12,77.65,11.12,5231,Triple,Boys,2,Yes,No,No,No,Yes,No,No,No,No,No,Yes,4,Both,No,Yes,No,10:00 PM,29-04-2026,Full
+667,horamavu,13.03,77.67,8.12,9491,Double,Boys,3,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,2,Non-Veg,No,Yes,No,9:00 PM,18-05-2026,Available
+668,kalyan nagar,13.025,77.64,4.9,7380,Double,Girls,2,No,Yes,No,No,No,No,No,No,No,No,Yes,2,Non-Veg,Yes,No,Yes,11:00 PM,06-05-2026,Available
+669,yelahanka,13.1,77.596,7.22,5608,Triple,Co-ed,2,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,1,Veg,No,Yes,No,11:00 PM,07-05-2026,Full
+670,thanisandra,13.05,77.62,3.05,5452,Triple,Co-ed,2,No,Yes,No,Yes,No,No,No,No,No,No,Yes,1,Non-Veg,Yes,Yes,Yes,No Curfew,07-05-2026,Full
+671,kalyan nagar,13.025,77.64,4.9,7734,Double,Boys,3,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,1,Veg,Yes,Yes,Yes,10:00 PM,04-05-2026,Available
+672,kodigehalli,13.07,77.58,4.32,6809,Triple,Boys,2,Yes,No,No,No,No,No,No,Yes,No,No,Yes,4,Both,Yes,No,No,No Curfew,03-05-2026,Full
+673,bagalur,13.12,77.65,11.12,4895,Triple,Girls,3,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,1,Non-Veg,No,Yes,No,10:00 PM,30-04-2026,Full
+674,kothanur,13.06,77.65,6.5,13559,Single,Boys,2,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,1,Both,No,Yes,No,No Curfew,17-05-2026,Available
+675,hebbal,13.035,77.597,0,16903,Single,Boys,2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,5,Both,No,No,No,9:00 PM,30-04-2026,Full
+676,jakkur,13.08,77.6,5.01,4505,Triple,Co-ed,3,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,4,Non-Veg,No,Yes,Yes,11:00 PM,26-04-2026,Full
+677,sahakar nagar,13.06,77.58,3.36,7231,Triple,Boys,3,Yes,No,No,Yes,No,No,No,No,No,No,Yes,5,Veg,No,Yes,No,9:00 PM,03-05-2026,Available
+678,yelahanka,13.1,77.596,7.22,11164,Single,Girls,3,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,5,Non-Veg,No,Yes,Yes,9:00 PM,25-04-2026,Available
+679,nagawara,13.04,77.62,2.61,7956,Triple,Girls,3,No,No,Yes,No,No,No,Yes,No,No,No,Yes,4,Non-Veg,Yes,No,No,11:00 PM,05-05-2026,Full
+680,kalyan nagar,13.025,77.64,4.9,11901,Double,Girls,3,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,1,Both,Yes,No,No,11:00 PM,15-05-2026,Full
+681,rt nagar,13.022,77.594,1.48,4209,Triple,Boys,2,Yes,No,No,No,Yes,No,No,No,No,No,Yes,4,Veg,No,No,Yes,11:00 PM,08-05-2026,Available
+682,kammanahalli,13.02,77.635,4.53,13066,Single,Girls,3,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,4,Both,Yes,Yes,Yes,10:00 PM,09-05-2026,Available
+683,bagalur,13.12,77.65,11.12,11190,Double,Co-ed,3,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,3,Veg,No,No,Yes,9:00 PM,20-05-2026,Full
+684,hennur,13.05,77.64,5.06,5489,Triple,Boys,2,No,No,Yes,Yes,No,No,No,No,Yes,No,Yes,2,Veg,No,Yes,No,No Curfew,09-05-2026,Full
+685,kothanur,13.06,77.65,6.5,5123,Triple,Co-ed,3,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,1,Both,No,Yes,Yes,9:00 PM,23-04-2026,Available
+686,kalyan nagar,13.025,77.64,4.9,8058,Double,Girls,2,Yes,No,Yes,No,Yes,No,No,Yes,No,No,Yes,2,Veg,No,No,No,No Curfew,03-05-2026,Full
+687,kalyan nagar,13.025,77.64,4.9,5266,Triple,Co-ed,3,No,No,No,No,No,No,Yes,No,Yes,No,Yes,1,Veg,No,No,No,No Curfew,04-05-2026,Full
+688,kammanahalli,13.02,77.635,4.53,6890,Double,Boys,2,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,1,Both,Yes,No,Yes,10:00 PM,28-04-2026,Available
+689,hebbal,13.035,77.597,0,7336,Triple,Girls,3,Yes,No,No,No,No,No,No,No,No,No,Yes,3,Both,No,No,No,10:00 PM,23-04-2026,Available
+690,hebbal,13.035,77.597,0,7169,Double,Girls,2,Yes,No,No,No,No,No,No,No,No,No,No,2,Non-Veg,Yes,No,Yes,11:00 PM,23-04-2026,Full
+691,kammanahalli,13.02,77.635,4.53,7412,Triple,Girls,3,Yes,No,No,Yes,No,No,No,Yes,No,Yes,Yes,4,Veg,No,No,No,10:00 PM,10-05-2026,Full
+692,kammanahalli,13.02,77.635,4.53,6559,Triple,Co-ed,2,No,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,2,Veg,Yes,Yes,No,11:00 PM,21-04-2026,Available
+693,sahakar nagar,13.06,77.58,3.36,15055,Single,Girls,3,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,3,Non-Veg,No,Yes,No,9:00 PM,22-04-2026,Available
+694,rt nagar,13.022,77.594,1.48,9289,Double,Boys,2,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,4,Non-Veg,No,No,Yes,11:00 PM,13-05-2026,Available
+695,vidyaranyapura,13.08,77.55,7.22,15247,Single,Co-ed,3,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,4,Non-Veg,Yes,Yes,No,No Curfew,23-04-2026,Available
+696,yelahanka,13.1,77.596,7.22,6254,Triple,Co-ed,3,No,No,Yes,No,No,No,No,No,No,Yes,Yes,1,Veg,No,No,No,No Curfew,24-04-2026,Full
+697,hennur,13.05,77.64,5.06,11835,Double,Co-ed,3,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,4,Non-Veg,No,Yes,No,9:00 PM,30-04-2026,Full
+698,horamavu,13.03,77.67,8.12,18302,Single,Co-ed,3,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,4,Veg,No,Yes,Yes,No Curfew,05-05-2026,Full
+699,vidyaranyapura,13.08,77.55,7.22,6452,Double,Co-ed,2,No,Yes,No,No,No,No,No,No,No,No,Yes,5,Veg,Yes,No,No,10:00 PM,21-04-2026,Full
+700,horamavu,13.03,77.67,8.12,4343,Triple,Co-ed,3,Yes,No,No,No,No,No,No,Yes,No,No,Yes,2,Non-Veg,No,No,Yes,9:00 PM,20-05-2026,Full
+701,kalyan nagar,13.025,77.64,4.9,9085,Single,Boys,3,No,No,No,No,Yes,No,Yes,No,No,No,Yes,2,Veg,Yes,Yes,No,11:00 PM,12-05-2026,Full
+702,rt nagar,13.022,77.594,1.48,4849,Triple,Co-ed,3,No,No,No,No,Yes,No,No,No,No,Yes,Yes,3,Both,Yes,Yes,No,No Curfew,20-05-2026,Full
+703,hebbal,13.035,77.597,0,11378,Double,Co-ed,2,Yes,Yes,No,No,No,No,No,No,Yes,No,Yes,1,Non-Veg,No,No,No,No Curfew,09-05-2026,Full
+704,jakkur,13.08,77.6,5.01,6750,Double,Girls,3,No,No,No,No,Yes,No,No,No,No,Yes,Yes,5,Veg,No,Yes,No,No Curfew,07-05-2026,Full
+705,vidyaranyapura,13.08,77.55,7.22,5738,Triple,Co-ed,3,No,No,No,No,No,Yes,No,No,Yes,No,Yes,4,Veg,No,Yes,No,No Curfew,02-05-2026,Available
+706,hennur,13.05,77.64,5.06,14274,Single,Boys,3,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,4,Both,No,No,Yes,No Curfew,09-05-2026,Available
+707,rt nagar,13.022,77.594,1.48,7317,Double,Boys,3,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,5,Non-Veg,Yes,Yes,Yes,9:00 PM,29-04-2026,Full
+708,hennur,13.05,77.64,5.06,7637,Triple,Boys,2,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,5,Both,No,No,No,No Curfew,08-05-2026,Full
+709,nagawara,13.04,77.62,2.61,5058,Triple,Co-ed,2,No,No,No,No,No,No,No,Yes,No,No,Yes,3,Veg,No,Yes,No,11:00 PM,21-04-2026,Available
+710,vidyaranyapura,13.08,77.55,7.22,7923,Double,Girls,2,No,Yes,No,No,Yes,No,No,No,Yes,No,Yes,4,Non-Veg,No,Yes,No,No Curfew,29-04-2026,Available
+711,hebbal,13.035,77.597,0,10332,Single,Boys,2,No,No,Yes,No,No,No,Yes,Yes,No,No,Yes,2,Non-Veg,No,Yes,No,No Curfew,12-05-2026,Available
+712,sahakar nagar,13.06,77.58,3.36,4386,Triple,Co-ed,3,No,No,No,No,No,No,No,No,No,No,No,1,Non-Veg,Yes,No,No,9:00 PM,08-05-2026,Available
+713,sahakar nagar,13.06,77.58,3.36,7115,Triple,Boys,2,No,Yes,No,Yes,No,No,No,No,No,No,Yes,5,Both,Yes,No,No,9:00 PM,12-05-2026,Full
+714,hennur,13.05,77.64,5.06,7046,Double,Boys,2,Yes,No,No,No,No,Yes,No,No,No,No,Yes,5,Veg,No,No,No,9:00 PM,30-04-2026,Full
+715,hebbal,13.035,77.597,0,6493,Triple,Girls,2,No,Yes,No,No,Yes,No,No,No,Yes,No,Yes,1,Both,No,Yes,No,10:00 PM,13-05-2026,Available
+716,sahakar nagar,13.06,77.58,3.36,13775,Single,Co-ed,2,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,2,Non-Veg,No,No,Yes,11:00 PM,12-05-2026,Full
+717,hennur,13.05,77.64,5.06,14153,Single,Co-ed,3,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,4,Both,No,Yes,No,9:00 PM,04-05-2026,Full
+718,sahakar nagar,13.06,77.58,3.36,6785,Triple,Co-ed,2,No,Yes,No,No,No,No,No,No,Yes,No,Yes,3,Non-Veg,Yes,Yes,No,10:00 PM,05-05-2026,Full
+719,bagalur,13.12,77.65,11.12,6363,Triple,Girls,3,No,Yes,No,No,No,No,No,No,No,No,Yes,3,Veg,No,Yes,No,11:00 PM,10-05-2026,Available
+720,kammanahalli,13.02,77.635,4.53,4796,Triple,Boys,3,No,No,No,No,No,No,No,No,Yes,No,Yes,1,Veg,No,No,Yes,11:00 PM,12-05-2026,Available
+721,hennur,13.05,77.64,5.06,11773,Single,Girls,3,No,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,4,Veg,No,No,No,11:00 PM,13-05-2026,Full
+722,rt nagar,13.022,77.594,1.48,7884,Triple,Boys,2,No,No,No,No,No,No,No,No,Yes,Yes,Yes,5,Veg,Yes,Yes,No,11:00 PM,24-04-2026,Full
+723,thanisandra,13.05,77.62,3.05,18835,Single,Co-ed,2,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,2,Veg,No,Yes,No,11:00 PM,03-05-2026,Full
+724,vidyaranyapura,13.08,77.55,7.22,6781,Double,Boys,2,No,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,3,Non-Veg,Yes,Yes,No,No Curfew,05-05-2026,Full
+725,kammanahalli,13.02,77.635,4.53,7118,Triple,Girls,3,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes,4,Veg,No,Yes,Yes,9:00 PM,25-04-2026,Full
+726,hebbal,13.035,77.597,0,9234,Double,Girls,3,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,3,Both,No,Yes,Yes,No Curfew,13-05-2026,Full
+727,vidyaranyapura,13.08,77.55,7.22,10111,Double,Boys,2,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,2,Both,Yes,No,Yes,10:00 PM,14-05-2026,Available
+728,nagawara,13.04,77.62,2.61,6470,Triple,Boys,3,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,1,Veg,No,Yes,No,No Curfew,30-04-2026,Full
+729,rt nagar,13.022,77.594,1.48,7535,Triple,Girls,3,No,No,No,No,No,No,No,No,No,No,Yes,3,Non-Veg,No,Yes,Yes,11:00 PM,30-04-2026,Full
+730,kodigehalli,13.07,77.58,4.32,6467,Triple,Girls,3,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,1,Both,Yes,No,No,10:00 PM,17-05-2026,Available
+731,thanisandra,13.05,77.62,3.05,12385,Single,Co-ed,3,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,2,Both,No,Yes,Yes,10:00 PM,23-04-2026,Available
+732,kodigehalli,13.07,77.58,4.32,6865,Double,Boys,3,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,2,Veg,Yes,Yes,No,10:00 PM,16-05-2026,Full
+733,hebbal,13.035,77.597,0,7603,Triple,Boys,3,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,2,Veg,No,Yes,Yes,9:00 PM,21-04-2026,Full
+734,kothanur,13.06,77.65,6.5,7121,Double,Girls,3,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,2,Non-Veg,No,Yes,No,11:00 PM,08-05-2026,Available
+735,hennur,13.05,77.64,5.06,14300,Single,Girls,3,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,2,Both,No,No,No,11:00 PM,17-05-2026,Available
+736,hebbal,13.035,77.597,0,15075,Single,Co-ed,2,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,4,Non-Veg,No,Yes,No,11:00 PM,06-05-2026,Available
+737,horamavu,13.03,77.67,8.12,18873,Single,Co-ed,2,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,3,Non-Veg,Yes,Yes,Yes,10:00 PM,05-05-2026,Available
+738,hebbal,13.035,77.597,0,6493,Double,Co-ed,2,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,4,Veg,No,No,No,11:00 PM,18-05-2026,Available
+739,kammanahalli,13.02,77.635,4.53,12247,Single,Boys,2,Yes,No,No,Yes,No,Yes,No,No,Yes,No,Yes,4,Non-Veg,No,Yes,Yes,9:00 PM,04-05-2026,Available
+740,sahakar nagar,13.06,77.58,3.36,10311,Double,Girls,3,No,No,No,Yes,No,No,No,Yes,No,No,Yes,2,Veg,Yes,Yes,No,10:00 PM,06-05-2026,Available
+741,kodigehalli,13.07,77.58,4.32,4099,Triple,Boys,2,Yes,No,No,No,No,No,No,No,No,No,Yes,2,Both,No,No,No,No Curfew,20-05-2026,Full
+742,hebbal,13.035,77.597,0,5689,Triple,Girls,2,No,No,No,No,Yes,No,No,No,No,No,Yes,3,Non-Veg,No,No,No,9:00 PM,06-05-2026,Full
+743,sahakar nagar,13.06,77.58,3.36,6366,Double,Boys,3,No,No,No,Yes,No,No,No,No,No,Yes,Yes,5,Non-Veg,No,No,No,11:00 PM,14-05-2026,Full
+744,nagawara,13.04,77.62,2.61,16446,Single,Co-ed,2,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,2,Both,No,Yes,Yes,9:00 PM,03-05-2026,Available
+745,bagalur,13.12,77.65,11.12,7987,Double,Boys,3,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,1,Both,Yes,Yes,No,No Curfew,01-05-2026,Available
+746,kothanur,13.06,77.65,6.5,7499,Double,Co-ed,2,No,No,No,No,Yes,No,No,No,No,Yes,Yes,4,Both,No,No,No,10:00 PM,20-05-2026,Available
+747,horamavu,13.03,77.67,8.12,6617,Triple,Girls,3,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,1,Veg,No,No,No,11:00 PM,08-05-2026,Available
+748,hennur,13.05,77.64,5.06,4034,Triple,Co-ed,2,No,No,No,No,No,No,No,No,No,No,Yes,3,Both,Yes,No,No,10:00 PM,27-04-2026,Full
+749,sahakar nagar,13.06,77.58,3.36,11543,Double,Co-ed,2,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,5,Non-Veg,No,No,No,10:00 PM,25-04-2026,Full
+750,nagawara,13.04,77.62,2.61,6666,Double,Boys,2,Yes,Yes,No,No,No,Yes,No,No,Yes,No,Yes,4,Non-Veg,No,Yes,No,No Curfew,29-04-2026,Full
+751,hebbal,13.035,77.597,0,7908,Triple,Co-ed,3,No,No,No,Yes,Yes,No,No,No,No,No,Yes,4,Veg,No,Yes,Yes,10:00 PM,22-04-2026,Available
+752,rt nagar,13.022,77.594,1.48,6572,Triple,Co-ed,2,No,Yes,No,No,No,Yes,No,No,No,No,Yes,1,Veg,Yes,No,No,9:00 PM,09-05-2026,Available
+753,vidyaranyapura,13.08,77.55,7.22,12477,Single,Boys,3,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,5,Non-Veg,No,Yes,Yes,9:00 PM,18-05-2026,Full
+754,thanisandra,13.05,77.62,3.05,10089,Single,Boys,2,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,2,Both,Yes,No,No,No Curfew,01-05-2026,Full
+755,hebbal,13.035,77.597,0,13301,Single,Girls,2,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,3,Both,No,Yes,Yes,10:00 PM,12-05-2026,Available
+756,kothanur,13.06,77.65,6.5,10561,Single,Boys,2,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,3,Both,Yes,Yes,No,No Curfew,10-05-2026,Available
+757,jakkur,13.08,77.6,5.01,18815,Single,Boys,2,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,5,Both,No,Yes,Yes,No Curfew,26-04-2026,Full
+758,jakkur,13.08,77.6,5.01,11938,Double,Co-ed,3,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,2,Veg,No,No,No,11:00 PM,21-04-2026,Available
+759,kothanur,13.06,77.65,6.5,14106,Single,Girls,2,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,3,Both,No,Yes,No,10:00 PM,21-04-2026,Full
+760,rt nagar,13.022,77.594,1.48,8962,Double,Co-ed,3,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,3,Non-Veg,Yes,Yes,No,No Curfew,22-04-2026,Available
+761,kothanur,13.06,77.65,6.5,7138,Triple,Girls,3,Yes,No,No,No,No,No,Yes,No,No,No,Yes,5,Both,No,Yes,No,9:00 PM,28-04-2026,Full
+762,hennur,13.05,77.64,5.06,7867,Triple,Co-ed,2,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,5,Both,No,Yes,Yes,9:00 PM,27-04-2026,Full
+763,kalyan nagar,13.025,77.64,4.9,7639,Triple,Girls,2,Yes,No,No,Yes,No,No,No,No,No,No,Yes,5,Both,No,Yes,No,9:00 PM,19-05-2026,Full
+764,kodigehalli,13.07,77.58,4.32,7414,Triple,Co-ed,3,No,No,No,No,No,No,No,Yes,No,No,Yes,5,Non-Veg,No,Yes,No,11:00 PM,19-05-2026,Available
+765,vidyaranyapura,13.08,77.55,7.22,18883,Single,Boys,2,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,2,Veg,No,Yes,No,9:00 PM,21-04-2026,Full
+766,horamavu,13.03,77.67,8.12,7037,Triple,Co-ed,3,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,4,Veg,Yes,Yes,Yes,9:00 PM,15-05-2026,Full
+767,kodigehalli,13.07,77.58,4.32,6396,Triple,Girls,3,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Yes,1,Veg,Yes,Yes,No,10:00 PM,15-05-2026,Available
+768,vidyaranyapura,13.08,77.55,7.22,6064,Double,Boys,2,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,3,Veg,Yes,No,Yes,9:00 PM,21-04-2026,Available
+769,bagalur,13.12,77.65,11.12,16177,Single,Boys,2,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,3,Veg,No,No,Yes,11:00 PM,23-04-2026,Available
+770,bagalur,13.12,77.65,11.12,5571,Triple,Boys,3,No,No,Yes,No,No,No,No,No,No,No,Yes,2,Both,Yes,No,No,9:00 PM,08-05-2026,Available
+771,kalyan nagar,13.025,77.64,4.9,12954,Single,Co-ed,2,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,5,Veg,Yes,No,No,10:00 PM,04-05-2026,Full
+772,kalyan nagar,13.025,77.64,4.9,5565,Triple,Boys,3,No,No,Yes,No,No,No,No,No,No,Yes,Yes,4,Veg,Yes,Yes,No,10:00 PM,20-05-2026,Available
+773,vidyaranyapura,13.08,77.55,7.22,5756,Triple,Boys,2,No,No,No,No,No,Yes,No,No,No,Yes,Yes,5,Veg,No,No,No,11:00 PM,08-05-2026,Available
+774,nagawara,13.04,77.62,2.61,19743,Single,Boys,3,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,2,Veg,Yes,Yes,No,10:00 PM,29-04-2026,Full
+775,rt nagar,13.022,77.594,1.48,11555,Single,Co-ed,2,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,1,Both,No,Yes,No,9:00 PM,21-04-2026,Available
+776,kodigehalli,13.07,77.58,4.32,4788,Triple,Co-ed,2,No,No,No,No,No,No,No,No,No,No,Yes,2,Both,No,Yes,No,11:00 PM,29-04-2026,Available
+777,bagalur,13.12,77.65,11.12,11758,Single,Boys,3,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,3,Veg,Yes,Yes,No,11:00 PM,25-04-2026,Available
+778,kammanahalli,13.02,77.635,4.53,19419,Single,Co-ed,3,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,5,Veg,No,No,Yes,9:00 PM,26-04-2026,Available
+779,horamavu,13.03,77.67,8.12,9081,Double,Girls,2,No,No,Yes,No,No,Yes,No,No,Yes,No,Yes,2,Veg,No,Yes,Yes,11:00 PM,24-04-2026,Full
+780,yelahanka,13.1,77.596,7.22,11256,Single,Boys,3,No,Yes,No,No,Yes,No,No,No,Yes,No,Yes,3,Veg,Yes,Yes,No,11:00 PM,08-05-2026,Full
+781,hebbal,13.035,77.597,0,6285,Triple,Co-ed,2,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,1,Both,Yes,Yes,No,No Curfew,29-04-2026,Available
+782,kammanahalli,13.02,77.635,4.53,18859,Single,Co-ed,3,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,2,Non-Veg,Yes,Yes,No,11:00 PM,09-05-2026,Available
+783,rt nagar,13.022,77.594,1.48,5847,Triple,Co-ed,3,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,5,Non-Veg,No,Yes,No,9:00 PM,05-05-2026,Available
+784,nagawara,13.04,77.62,2.61,16082,Single,Boys,3,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,4,Both,No,Yes,No,No Curfew,17-05-2026,Full
+785,kammanahalli,13.02,77.635,4.53,7204,Triple,Co-ed,3,Yes,No,No,No,No,No,No,No,Yes,No,Yes,4,Non-Veg,No,No,No,No Curfew,05-05-2026,Full
+786,hebbal,13.035,77.597,0,12283,Single,Co-ed,2,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,4,Non-Veg,Yes,Yes,No,9:00 PM,05-05-2026,Full
+787,horamavu,13.03,77.67,8.12,11073,Single,Co-ed,2,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,2,Veg,Yes,No,Yes,No Curfew,04-05-2026,Full
+788,thanisandra,13.05,77.62,3.05,6744,Triple,Co-ed,2,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,4,Veg,No,No,Yes,9:00 PM,25-04-2026,Available
+789,thanisandra,13.05,77.62,3.05,12975,Single,Co-ed,3,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,4,Non-Veg,No,Yes,No,No Curfew,24-04-2026,Full
+790,sahakar nagar,13.06,77.58,3.36,5891,Triple,Girls,3,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,1,Veg,No,Yes,Yes,9:00 PM,27-04-2026,Full
+791,kammanahalli,13.02,77.635,4.53,7431,Double,Girls,2,No,No,No,No,No,No,No,Yes,No,No,Yes,2,Non-Veg,Yes,Yes,No,No Curfew,02-05-2026,Full
+792,jakkur,13.08,77.6,5.01,12364,Single,Co-ed,2,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes,2,Veg,Yes,No,No,10:00 PM,02-05-2026,Available
+793,hennur,13.05,77.64,5.06,8360,Double,Girls,3,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,5,Both,No,Yes,Yes,9:00 PM,19-05-2026,Full
+794,hebbal,13.035,77.597,0,5066,Triple,Boys,2,No,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,5,Veg,Yes,Yes,Yes,10:00 PM,05-05-2026,Full
+795,nagawara,13.04,77.62,2.61,8630,Double,Girls,2,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,1,Non-Veg,No,No,Yes,10:00 PM,10-05-2026,Available
+796,yelahanka,13.1,77.596,7.22,9569,Single,Boys,2,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,2,Non-Veg,No,Yes,No,11:00 PM,17-05-2026,Available
+797,vidyaranyapura,13.08,77.55,7.22,10658,Double,Boys,2,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,1,Both,No,Yes,Yes,No Curfew,23-04-2026,Full
+798,jakkur,13.08,77.6,5.01,7542,Triple,Co-ed,3,No,Yes,Yes,No,No,No,No,No,No,No,Yes,2,Non-Veg,No,Yes,No,9:00 PM,28-04-2026,Available
+799,sahakar nagar,13.06,77.58,3.36,7757,Triple,Co-ed,2,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,2,Veg,No,Yes,No,10:00 PM,19-05-2026,Full
+800,kodigehalli,13.07,77.58,4.32,6580,Double,Co-ed,2,No,No,No,No,No,No,No,No,No,Yes,Yes,3,Non-Veg,Yes,Yes,No,No Curfew,20-05-2026,Available
+801,horamavu,13.03,77.67,8.12,10758,Double,Girls,3,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,2,Non-Veg,Yes,Yes,No,No Curfew,25-04-2026,Available
+802,sahakar nagar,13.06,77.58,3.36,13870,Single,Co-ed,2,Yes,No,No,Yes,No,No,No,Yes,No,Yes,Yes,3,Both,Yes,Yes,No,No Curfew,26-04-2026,Full
+803,hennur,13.05,77.64,5.06,7140,Double,Girls,2,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Yes,1,Both,Yes,No,No,9:00 PM,04-05-2026,Full
+804,vidyaranyapura,13.08,77.55,7.22,10793,Double,Co-ed,2,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,3,Both,Yes,Yes,No,9:00 PM,05-05-2026,Available
+805,nagawara,13.04,77.62,2.61,11586,Double,Girls,3,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,3,Veg,No,Yes,No,No Curfew,27-04-2026,Available
+806,kothanur,13.06,77.65,6.5,6474,Triple,Girls,2,Yes,No,No,No,No,No,Yes,No,No,No,Yes,3,Veg,No,No,Yes,11:00 PM,16-05-2026,Available
+807,nagawara,13.04,77.62,2.61,19715,Single,Girls,3,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,2,Both,Yes,Yes,No,No Curfew,20-05-2026,Available
+808,hennur,13.05,77.64,5.06,4018,Triple,Boys,2,Yes,No,No,No,No,No,No,No,No,No,Yes,2,Non-Veg,No,No,No,11:00 PM,14-05-2026,Available
+809,hebbal,13.035,77.597,0,6281,Triple,Girls,2,No,No,No,No,No,No,Yes,No,No,No,Yes,5,Both,No,Yes,No,10:00 PM,22-04-2026,Available
+810,jakkur,13.08,77.6,5.01,6109,Triple,Boys,3,No,No,No,No,No,No,No,No,No,No,Yes,3,Both,No,Yes,No,9:00 PM,26-04-2026,Full
+811,hebbal,13.035,77.597,0,5755,Triple,Boys,3,No,No,No,No,Yes,No,No,No,Yes,No,Yes,5,Both,No,Yes,Yes,11:00 PM,05-05-2026,Available
+812,kodigehalli,13.07,77.58,4.32,8736,Double,Boys,3,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,5,Both,No,No,Yes,9:00 PM,19-05-2026,Available
+813,kalyan nagar,13.025,77.64,4.9,15541,Single,Co-ed,3,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,1,Both,Yes,Yes,No,No Curfew,15-05-2026,Full
+814,kammanahalli,13.02,77.635,4.53,13174,Single,Boys,3,Yes,No,No,No,Yes,No,No,Yes,Yes,No,Yes,1,Non-Veg,No,Yes,No,11:00 PM,30-04-2026,Available
+815,kalyan nagar,13.025,77.64,4.9,11495,Double,Boys,3,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,1,Non-Veg,No,No,Yes,11:00 PM,10-05-2026,Available
+816,horamavu,13.03,77.67,8.12,19431,Single,Boys,3,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,5,Non-Veg,No,Yes,Yes,11:00 PM,27-04-2026,Available
+817,rt nagar,13.022,77.594,1.48,7984,Triple,Co-ed,3,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,1,Veg,No,No,No,9:00 PM,16-05-2026,Available
+818,jakkur,13.08,77.6,5.01,6620,Triple,Boys,3,No,No,No,Yes,No,No,Yes,No,Yes,No,Yes,4,Non-Veg,No,No,Yes,11:00 PM,05-05-2026,Full
+819,yelahanka,13.1,77.596,7.22,7918,Triple,Boys,2,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,3,Veg,No,No,Yes,No Curfew,09-05-2026,Available
+820,yelahanka,13.1,77.596,7.22,7417,Triple,Boys,2,No,No,Yes,Yes,No,No,No,No,Yes,No,Yes,4,Both,No,Yes,No,No Curfew,03-05-2026,Available
+821,bagalur,13.12,77.65,11.12,4167,Triple,Girls,2,No,Yes,No,No,No,No,No,No,No,Yes,Yes,5,Both,Yes,Yes,No,11:00 PM,23-04-2026,Available
+822,jakkur,13.08,77.6,5.01,13333,Single,Boys,3,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,1,Veg,No,Yes,No,11:00 PM,14-05-2026,Available
+823,kodigehalli,13.07,77.58,4.32,5814,Triple,Co-ed,3,No,No,No,No,Yes,No,No,No,No,No,Yes,5,Veg,Yes,Yes,Yes,11:00 PM,05-05-2026,Available
+824,jakkur,13.08,77.6,5.01,8941,Double,Boys,3,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,4,Both,No,No,Yes,No Curfew,28-04-2026,Full
+825,kalyan nagar,13.025,77.64,4.9,17198,Single,Girls,3,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,1,Both,Yes,No,No,9:00 PM,09-05-2026,Full
+826,hebbal,13.035,77.597,0,7718,Double,Girls,2,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,3,Veg,No,Yes,Yes,9:00 PM,19-05-2026,Full
+827,bagalur,13.12,77.65,11.12,7088,Double,Girls,2,No,No,No,No,No,Yes,No,No,No,No,No,4,Non-Veg,Yes,No,No,9:00 PM,10-05-2026,Available
+828,vidyaranyapura,13.08,77.55,7.22,7562,Double,Girls,2,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,2,Veg,No,Yes,Yes,No Curfew,21-04-2026,Available
+829,jakkur,13.08,77.6,5.01,4579,Triple,Boys,2,No,No,No,No,No,No,No,Yes,No,No,Yes,4,Both,No,No,Yes,11:00 PM,09-05-2026,Full
+830,rt nagar,13.022,77.594,1.48,5325,Triple,Boys,3,Yes,No,No,No,No,No,No,No,No,No,Yes,2,Veg,Yes,Yes,Yes,No Curfew,26-04-2026,Available
+831,kammanahalli,13.02,77.635,4.53,7969,Double,Boys,3,Yes,Yes,No,No,No,No,No,No,Yes,No,No,4,Veg,No,No,Yes,No Curfew,16-05-2026,Full
+832,vidyaranyapura,13.08,77.55,7.22,14578,Single,Co-ed,3,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,3,Veg,No,Yes,No,11:00 PM,23-04-2026,Full
+833,vidyaranyapura,13.08,77.55,7.22,11431,Single,Girls,3,No,Yes,No,No,No,No,No,Yes,No,No,Yes,4,Both,No,No,No,10:00 PM,24-04-2026,Full
+834,horamavu,13.03,77.67,8.12,9252,Single,Girls,3,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,3,Both,No,Yes,No,No Curfew,23-04-2026,Available
+835,hennur,13.05,77.64,5.06,7493,Triple,Boys,3,No,Yes,No,No,Yes,No,No,No,No,No,Yes,5,Non-Veg,No,Yes,Yes,No Curfew,29-04-2026,Full
+836,hebbal,13.035,77.597,0,13325,Single,Girls,3,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,No,5,Non-Veg,No,Yes,No,9:00 PM,10-05-2026,Available
+837,kodigehalli,13.07,77.58,4.32,6772,Double,Girls,2,No,No,No,No,No,No,No,Yes,No,Yes,Yes,5,Veg,No,Yes,No,11:00 PM,29-04-2026,Available
+838,horamavu,13.03,77.67,8.12,19513,Single,Girls,2,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,1,Non-Veg,No,No,Yes,10:00 PM,17-05-2026,Full
+839,hebbal,13.035,77.597,0,7903,Triple,Co-ed,2,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,4,Both,No,Yes,Yes,No Curfew,15-05-2026,Available
+840,kalyan nagar,13.025,77.64,4.9,4097,Triple,Girls,2,No,No,No,No,No,No,Yes,Yes,No,No,Yes,3,Veg,No,Yes,Yes,No Curfew,03-05-2026,Full
+841,sahakar nagar,13.06,77.58,3.36,5739,Triple,Boys,2,No,Yes,No,No,No,Yes,No,No,No,No,No,5,Both,No,Yes,Yes,No Curfew,28-04-2026,Available
+842,kothanur,13.06,77.65,6.5,5905,Triple,Co-ed,3,Yes,No,No,No,No,No,Yes,No,No,No,Yes,2,Veg,Yes,No,No,11:00 PM,27-04-2026,Available
+843,vidyaranyapura,13.08,77.55,7.22,6538,Triple,Girls,3,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,1,Both,Yes,Yes,Yes,11:00 PM,22-04-2026,Full
+844,vidyaranyapura,13.08,77.55,7.22,5627,Triple,Girls,3,No,No,No,No,No,No,No,No,No,Yes,Yes,3,Both,No,Yes,No,11:00 PM,02-05-2026,Available
+845,kothanur,13.06,77.65,6.5,16645,Single,Girls,2,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,2,Veg,No,No,No,11:00 PM,14-05-2026,Full
+846,jakkur,13.08,77.6,5.01,10342,Double,Girls,2,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,4,Non-Veg,No,Yes,No,10:00 PM,22-04-2026,Full
+847,bagalur,13.12,77.65,11.12,10479,Single,Girls,3,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,4,Both,No,No,No,9:00 PM,15-05-2026,Full
+848,kammanahalli,13.02,77.635,4.53,17233,Single,Boys,2,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,2,Veg,No,Yes,No,11:00 PM,09-05-2026,Available
+849,rt nagar,13.022,77.594,1.48,5069,Triple,Co-ed,3,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,4,Non-Veg,No,No,Yes,9:00 PM,02-05-2026,Available
+850,thanisandra,13.05,77.62,3.05,18846,Single,Boys,3,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,3,Both,Yes,No,No,11:00 PM,10-05-2026,Full
+851,kothanur,13.06,77.65,6.5,5431,Triple,Boys,2,No,No,No,No,No,No,No,Yes,Yes,No,Yes,4,Veg,No,No,No,No Curfew,12-05-2026,Available
+852,nagawara,13.04,77.62,2.61,10938,Double,Boys,2,No,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,2,Non-Veg,No,No,Yes,9:00 PM,09-05-2026,Available
+853,kammanahalli,13.02,77.635,4.53,6874,Triple,Co-ed,2,No,No,No,No,No,No,No,Yes,Yes,No,Yes,2,Both,No,Yes,No,10:00 PM,14-05-2026,Available
+854,bagalur,13.12,77.65,11.12,10135,Double,Boys,2,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,5,Both,No,Yes,No,No Curfew,05-05-2026,Available
+855,kalyan nagar,13.025,77.64,4.9,7770,Double,Girls,3,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,4,Both,No,No,Yes,9:00 PM,13-05-2026,Available
+856,hennur,13.05,77.64,5.06,11330,Single,Girls,3,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,1,Non-Veg,Yes,Yes,No,9:00 PM,04-05-2026,Available
+857,vidyaranyapura,13.08,77.55,7.22,18049,Single,Co-ed,2,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,5,Both,No,Yes,No,No Curfew,21-04-2026,Full
+858,hennur,13.05,77.64,5.06,10648,Single,Co-ed,2,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,3,Veg,No,No,Yes,10:00 PM,05-05-2026,Available
+859,jakkur,13.08,77.6,5.01,8902,Double,Boys,2,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,3,Both,Yes,Yes,No,No Curfew,06-05-2026,Full
+860,bagalur,13.12,77.65,11.12,11348,Single,Girls,3,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,2,Non-Veg,Yes,No,No,No Curfew,20-05-2026,Full
+861,sahakar nagar,13.06,77.58,3.36,10503,Double,Boys,3,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,2,Non-Veg,No,No,No,9:00 PM,01-05-2026,Available
+862,bagalur,13.12,77.65,11.12,7577,Double,Co-ed,2,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,5,Both,No,Yes,No,9:00 PM,03-05-2026,Full
+863,kalyan nagar,13.025,77.64,4.9,6003,Double,Co-ed,2,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,2,Veg,Yes,Yes,Yes,10:00 PM,13-05-2026,Full
+864,hebbal,13.035,77.597,0,12044,Single,Co-ed,3,No,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,2,Veg,No,No,Yes,11:00 PM,12-05-2026,Full
+865,hennur,13.05,77.64,5.06,4254,Triple,Co-ed,2,No,No,Yes,No,No,No,No,No,Yes,No,Yes,2,Both,Yes,Yes,No,11:00 PM,05-05-2026,Available
+866,kalyan nagar,13.025,77.64,4.9,6927,Double,Boys,2,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,1,Both,No,Yes,No,9:00 PM,21-04-2026,Available
+867,kothanur,13.06,77.65,6.5,4809,Triple,Co-ed,2,Yes,Yes,No,No,Yes,No,No,No,Yes,No,Yes,5,Both,Yes,No,No,11:00 PM,25-04-2026,Full
+868,nagawara,13.04,77.62,2.61,11846,Double,Co-ed,2,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,2,Veg,No,No,No,9:00 PM,25-04-2026,Full
+869,hebbal,13.035,77.597,0,10529,Single,Girls,2,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,3,Both,No,Yes,No,No Curfew,13-05-2026,Full
+870,horamavu,13.03,77.67,8.12,5031,Triple,Co-ed,3,No,No,No,Yes,No,No,No,No,No,No,Yes,1,Non-Veg,Yes,Yes,Yes,11:00 PM,08-05-2026,Available
+871,kothanur,13.06,77.65,6.5,7582,Double,Boys,3,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,3,Non-Veg,Yes,Yes,No,11:00 PM,23-04-2026,Available
+872,jakkur,13.08,77.6,5.01,9048,Double,Co-ed,2,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,5,Both,Yes,No,Yes,No Curfew,13-05-2026,Available
+873,jakkur,13.08,77.6,5.01,17463,Single,Girls,2,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,1,Both,Yes,Yes,No,9:00 PM,27-04-2026,Available
+874,sahakar nagar,13.06,77.58,3.36,11063,Double,Co-ed,2,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,1,Non-Veg,No,Yes,No,9:00 PM,15-05-2026,Full
+875,nagawara,13.04,77.62,2.61,7161,Triple,Girls,3,Yes,No,No,No,No,No,No,Yes,No,No,Yes,1,Veg,No,Yes,No,10:00 PM,19-05-2026,Full
+876,hennur,13.05,77.64,5.06,7434,Triple,Co-ed,3,No,Yes,No,Yes,No,No,No,No,No,Yes,Yes,5,Non-Veg,Yes,Yes,Yes,9:00 PM,24-04-2026,Available
+877,sahakar nagar,13.06,77.58,3.36,7572,Triple,Boys,2,No,No,No,No,No,No,Yes,Yes,No,No,Yes,5,Non-Veg,No,No,No,10:00 PM,05-05-2026,Full
+878,yelahanka,13.1,77.596,7.22,15121,Single,Boys,3,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,3,Both,No,Yes,No,10:00 PM,04-05-2026,Full
+879,sahakar nagar,13.06,77.58,3.36,5648,Triple,Co-ed,3,No,No,No,No,Yes,No,No,No,No,No,Yes,2,Non-Veg,Yes,Yes,Yes,10:00 PM,15-05-2026,Available
+880,kammanahalli,13.02,77.635,4.53,7461,Double,Boys,3,Yes,Yes,No,Yes,No,No,Yes,No,No,No,Yes,5,Non-Veg,No,Yes,No,11:00 PM,14-05-2026,Available
+881,rt nagar,13.022,77.594,1.48,8677,Double,Girls,3,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,2,Non-Veg,No,Yes,No,11:00 PM,10-05-2026,Available
+882,kothanur,13.06,77.65,6.5,15643,Single,Girls,3,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,5,Both,Yes,Yes,No,9:00 PM,14-05-2026,Available
+883,kodigehalli,13.07,77.58,4.32,5488,Triple,Co-ed,2,No,No,No,No,No,No,No,No,No,No,Yes,2,Veg,No,Yes,No,11:00 PM,23-04-2026,Available
+884,jakkur,13.08,77.6,5.01,17585,Single,Boys,2,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,2,Non-Veg,Yes,Yes,No,9:00 PM,05-05-2026,Available
+885,rt nagar,13.022,77.594,1.48,11614,Double,Co-ed,2,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,5,Veg,No,Yes,Yes,No Curfew,12-05-2026,Available
+886,kalyan nagar,13.025,77.64,4.9,7991,Triple,Boys,2,No,Yes,No,No,No,No,No,No,Yes,Yes,Yes,3,Veg,No,Yes,Yes,11:00 PM,24-04-2026,Full
+887,jakkur,13.08,77.6,5.01,10982,Single,Co-ed,2,No,No,No,No,No,No,No,No,No,Yes,No,1,Non-Veg,No,Yes,Yes,10:00 PM,13-05-2026,Available
+888,kothanur,13.06,77.65,6.5,6419,Double,Boys,3,No,No,No,Yes,Yes,No,No,Yes,No,No,No,1,Non-Veg,No,Yes,No,No Curfew,23-04-2026,Available
+889,yelahanka,13.1,77.596,7.22,12543,Single,Co-ed,3,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,5,Both,No,Yes,No,No Curfew,20-05-2026,Full
+890,hennur,13.05,77.64,5.06,6277,Double,Boys,3,No,No,No,No,No,No,Yes,Yes,No,No,Yes,3,Non-Veg,Yes,Yes,No,No Curfew,01-05-2026,Available
+891,vidyaranyapura,13.08,77.55,7.22,6556,Triple,Girls,3,No,No,No,No,No,No,No,No,No,No,Yes,5,Veg,No,Yes,No,10:00 PM,05-05-2026,Available
+892,rt nagar,13.022,77.594,1.48,7362,Double,Co-ed,3,No,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,5,Veg,No,Yes,No,10:00 PM,16-05-2026,Available
+893,kammanahalli,13.02,77.635,4.53,6274,Triple,Boys,3,No,No,No,No,No,No,No,Yes,Yes,No,Yes,3,Veg,No,No,Yes,No Curfew,17-05-2026,Full
+894,kammanahalli,13.02,77.635,4.53,6026,Triple,Boys,3,No,No,No,Yes,No,No,No,No,No,No,Yes,3,Non-Veg,No,Yes,No,9:00 PM,09-05-2026,Available
+895,jakkur,13.08,77.6,5.01,9878,Double,Boys,2,No,No,No,No,Yes,No,No,Yes,No,Yes,Yes,2,Non-Veg,Yes,Yes,Yes,No Curfew,21-04-2026,Available
+896,rt nagar,13.022,77.594,1.48,11700,Double,Girls,2,No,No,Yes,No,Yes,No,No,Yes,No,No,Yes,1,Both,No,No,No,9:00 PM,08-05-2026,Available
+897,bagalur,13.12,77.65,11.12,10063,Double,Boys,3,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,1,Veg,No,Yes,Yes,No Curfew,16-05-2026,Available
+898,kodigehalli,13.07,77.58,4.32,18713,Single,Co-ed,2,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,3,Veg,No,No,Yes,11:00 PM,10-05-2026,Available
+899,kammanahalli,13.02,77.635,4.53,15577,Single,Girls,2,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,5,Non-Veg,Yes,Yes,No,10:00 PM,07-05-2026,Available
+900,yelahanka,13.1,77.596,7.22,11743,Double,Co-ed,3,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,2,Veg,No,No,No,9:00 PM,10-05-2026,Available
+901,hennur,13.05,77.64,5.06,6548,Double,Boys,3,Yes,No,No,No,Yes,No,No,No,No,No,Yes,3,Non-Veg,No,Yes,Yes,11:00 PM,10-05-2026,Available
+902,hebbal,13.035,77.597,0,9672,Double,Girls,3,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,3,Non-Veg,Yes,No,No,9:00 PM,06-05-2026,Full
+903,kalyan nagar,13.025,77.64,4.9,6110,Triple,Girls,2,No,No,No,No,No,No,No,No,No,Yes,No,5,Both,No,No,Yes,9:00 PM,02-05-2026,Available
+904,bagalur,13.12,77.65,11.12,16899,Single,Co-ed,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Non-Veg,No,Yes,Yes,11:00 PM,03-05-2026,Available
+905,vidyaranyapura,13.08,77.55,7.22,4483,Triple,Boys,2,Yes,No,No,No,No,No,No,No,No,No,Yes,4,Non-Veg,No,Yes,Yes,10:00 PM,04-05-2026,Available
+906,rt nagar,13.022,77.594,1.48,11950,Double,Co-ed,2,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,3,Both,Yes,Yes,No,No Curfew,23-04-2026,Available
+907,jakkur,13.08,77.6,5.01,6305,Double,Boys,2,No,Yes,No,No,No,No,Yes,No,No,No,Yes,1,Veg,Yes,Yes,No,11:00 PM,06-05-2026,Available
+908,hebbal,13.035,77.597,0,6917,Triple,Girls,3,Yes,Yes,No,No,No,No,No,No,No,No,Yes,3,Both,Yes,No,No,10:00 PM,27-04-2026,Full
+909,kammanahalli,13.02,77.635,4.53,9590,Double,Boys,3,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,4,Non-Veg,Yes,No,Yes,No Curfew,02-05-2026,Full
+910,kammanahalli,13.02,77.635,4.53,7541,Triple,Boys,3,No,No,No,No,No,No,No,No,Yes,No,Yes,3,Both,Yes,No,Yes,9:00 PM,25-04-2026,Full
+911,bagalur,13.12,77.65,11.12,17989,Single,Co-ed,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Non-Veg,No,No,No,No Curfew,02-05-2026,Available
+912,thanisandra,13.05,77.62,3.05,19505,Single,Co-ed,3,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,2,Non-Veg,No,No,No,9:00 PM,26-04-2026,Available
+913,sahakar nagar,13.06,77.58,3.36,4877,Triple,Girls,3,No,No,No,No,No,Yes,No,Yes,Yes,No,Yes,3,Non-Veg,No,No,No,No Curfew,09-05-2026,Available
+914,bagalur,13.12,77.65,11.12,10319,Double,Girls,2,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,1,Non-Veg,No,No,Yes,9:00 PM,10-05-2026,Full
+915,nagawara,13.04,77.62,2.61,10536,Double,Boys,3,Yes,Yes,No,No,No,No,No,No,Yes,No,Yes,4,Veg,Yes,Yes,Yes,10:00 PM,16-05-2026,Available
+916,nagawara,13.04,77.62,2.61,18355,Single,Girls,3,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,5,Non-Veg,Yes,No,No,11:00 PM,13-05-2026,Available
+917,kammanahalli,13.02,77.635,4.53,5879,Triple,Co-ed,3,No,No,Yes,No,No,No,No,No,No,No,Yes,2,Both,No,No,No,11:00 PM,03-05-2026,Available
+918,bagalur,13.12,77.65,11.12,6639,Triple,Co-ed,3,No,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,4,Veg,No,No,Yes,11:00 PM,03-05-2026,Full
+919,kammanahalli,13.02,77.635,4.53,7654,Double,Co-ed,2,Yes,No,Yes,No,No,No,No,No,Yes,No,Yes,5,Non-Veg,Yes,No,No,9:00 PM,27-04-2026,Available
+920,horamavu,13.03,77.67,8.12,7238,Double,Boys,2,No,Yes,No,Yes,No,Yes,No,No,No,No,Yes,3,Non-Veg,No,No,No,11:00 PM,25-04-2026,Available
+921,hebbal,13.035,77.597,0,18799,Single,Girls,2,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,4,Both,No,Yes,Yes,10:00 PM,20-05-2026,Available
+922,jakkur,13.08,77.6,5.01,6618,Double,Boys,2,Yes,No,No,No,Yes,No,No,Yes,No,No,Yes,2,Both,No,No,Yes,10:00 PM,10-05-2026,Available
+923,kothanur,13.06,77.65,6.5,19985,Single,Girls,2,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,Veg,No,Yes,No,10:00 PM,30-04-2026,Full
+924,kothanur,13.06,77.65,6.5,9131,Single,Co-ed,3,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Yes,5,Both,No,No,Yes,10:00 PM,05-05-2026,Full
+925,hennur,13.05,77.64,5.06,9728,Double,Boys,2,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,2,Veg,No,No,No,11:00 PM,15-05-2026,Full
+926,hebbal,13.035,77.597,0,7611,Triple,Boys,3,No,No,No,No,No,No,No,Yes,No,No,Yes,1,Non-Veg,Yes,No,No,9:00 PM,03-05-2026,Full
+927,kammanahalli,13.02,77.635,4.53,11182,Double,Boys,3,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,4,Veg,Yes,Yes,Yes,No Curfew,25-04-2026,Full
+928,kothanur,13.06,77.65,6.5,19207,Single,Co-ed,2,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,4,Both,No,No,No,No Curfew,11-05-2026,Full
+929,sahakar nagar,13.06,77.58,3.36,10021,Double,Girls,3,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,4,Non-Veg,No,Yes,No,9:00 PM,17-05-2026,Available
+930,kodigehalli,13.07,77.58,4.32,13591,Single,Co-ed,3,No,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,1,Non-Veg,No,No,Yes,9:00 PM,12-05-2026,Available
+931,vidyaranyapura,13.08,77.55,7.22,10205,Single,Co-ed,3,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,1,Non-Veg,No,Yes,No,11:00 PM,28-04-2026,Full
+932,hennur,13.05,77.64,5.06,4720,Triple,Co-ed,3,No,No,No,No,No,Yes,No,No,Yes,No,Yes,4,Non-Veg,Yes,No,No,10:00 PM,16-05-2026,Full
+933,hennur,13.05,77.64,5.06,8267,Double,Boys,3,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,5,Non-Veg,Yes,Yes,Yes,No Curfew,19-05-2026,Available
+934,sahakar nagar,13.06,77.58,3.36,7797,Triple,Boys,3,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,5,Both,No,No,Yes,11:00 PM,07-05-2026,Available
+935,rt nagar,13.022,77.594,1.48,11439,Double,Girls,3,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,4,Veg,No,Yes,No,10:00 PM,04-05-2026,Full
+936,sahakar nagar,13.06,77.58,3.36,7661,Triple,Boys,2,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,4,Veg,No,Yes,No,10:00 PM,16-05-2026,Full
+937,horamavu,13.03,77.67,8.12,11836,Double,Girls,2,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,4,Non-Veg,No,No,Yes,9:00 PM,29-04-2026,Available
+938,hennur,13.05,77.64,5.06,10804,Double,Boys,2,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,5,Both,No,Yes,Yes,10:00 PM,20-05-2026,Full
+939,yelahanka,13.1,77.596,7.22,9662,Single,Co-ed,3,Yes,No,No,No,No,Yes,No,No,No,No,Yes,4,Non-Veg,Yes,Yes,No,11:00 PM,17-05-2026,Full
+940,nagawara,13.04,77.62,2.61,10386,Double,Co-ed,3,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,1,Veg,No,No,No,11:00 PM,24-04-2026,Available
+941,thanisandra,13.05,77.62,3.05,8546,Double,Boys,3,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,2,Veg,Yes,No,Yes,9:00 PM,20-05-2026,Full
+942,kalyan nagar,13.025,77.64,4.9,15153,Single,Co-ed,3,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,2,Veg,No,No,Yes,9:00 PM,23-04-2026,Full
+943,horamavu,13.03,77.67,8.12,9157,Double,Co-ed,2,No,Yes,No,No,No,No,No,No,Yes,No,Yes,4,Non-Veg,Yes,No,Yes,9:00 PM,21-04-2026,Available
+944,kothanur,13.06,77.65,6.5,6441,Double,Co-ed,3,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,5,Non-Veg,No,Yes,No,No Curfew,04-05-2026,Full
+945,jakkur,13.08,77.6,5.01,10454,Double,Boys,2,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,3,Both,No,Yes,Yes,11:00 PM,23-04-2026,Full
+946,vidyaranyapura,13.08,77.55,7.22,6949,Triple,Boys,3,No,No,No,No,No,No,No,Yes,No,Yes,Yes,2,Both,No,Yes,No,10:00 PM,18-05-2026,Available
+947,bagalur,13.12,77.65,11.12,6470,Double,Co-ed,3,No,Yes,No,No,No,Yes,No,No,No,No,Yes,5,Non-Veg,No,Yes,No,10:00 PM,04-05-2026,Full
+948,hebbal,13.035,77.597,0,5533,Triple,Co-ed,2,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,5,Both,No,Yes,Yes,11:00 PM,04-05-2026,Full
+949,kothanur,13.06,77.65,6.5,17138,Single,Girls,3,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,1,Both,No,No,Yes,No Curfew,02-05-2026,Full
+950,vidyaranyapura,13.08,77.55,7.22,15062,Single,Girls,3,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,3,Veg,Yes,Yes,No,10:00 PM,15-05-2026,Available
+951,nagawara,13.04,77.62,2.61,8526,Double,Girls,2,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,3,Veg,No,Yes,Yes,9:00 PM,06-05-2026,Full
+952,kalyan nagar,13.025,77.64,4.9,5446,Triple,Boys,2,Yes,No,No,Yes,No,No,No,No,No,No,Yes,5,Both,Yes,Yes,No,No Curfew,24-04-2026,Full
+953,kothanur,13.06,77.65,6.5,7505,Triple,Girls,2,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,5,Both,Yes,No,Yes,9:00 PM,30-04-2026,Available
+954,kodigehalli,13.07,77.58,4.32,13318,Single,Co-ed,3,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,3,Veg,No,Yes,No,10:00 PM,10-05-2026,Available
+955,yelahanka,13.1,77.596,7.22,17050,Single,Boys,2,No,No,No,No,No,No,No,Yes,Yes,No,Yes,5,Veg,No,Yes,No,No Curfew,05-05-2026,Full
+956,hebbal,13.035,77.597,0,10275,Double,Co-ed,2,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,4,Non-Veg,No,Yes,No,No Curfew,02-05-2026,Full
+957,kodigehalli,13.07,77.58,4.32,8200,Double,Girls,2,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,4,Both,No,No,No,9:00 PM,19-05-2026,Available
+958,sahakar nagar,13.06,77.58,3.36,7178,Triple,Girls,2,No,No,Yes,No,No,No,No,Yes,No,No,Yes,2,Non-Veg,No,No,No,10:00 PM,04-05-2026,Full
+959,kothanur,13.06,77.65,6.5,4324,Triple,Girls,2,No,No,No,No,No,No,No,Yes,No,No,Yes,2,Both,No,Yes,Yes,11:00 PM,20-05-2026,Full
+960,kodigehalli,13.07,77.58,4.32,4874,Triple,Co-ed,3,No,No,No,Yes,No,No,No,No,No,No,Yes,1,Veg,No,No,Yes,9:00 PM,29-04-2026,Available
+961,kalyan nagar,13.025,77.64,4.9,11545,Single,Co-ed,3,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,2,Both,No,Yes,Yes,11:00 PM,04-05-2026,Full
+962,nagawara,13.04,77.62,2.61,5012,Triple,Co-ed,2,No,No,No,No,No,Yes,No,No,No,No,Yes,1,Non-Veg,Yes,No,No,No Curfew,05-05-2026,Full
+963,bagalur,13.12,77.65,11.12,8039,Double,Girls,3,No,No,No,No,No,No,No,No,Yes,No,Yes,5,Non-Veg,Yes,No,No,10:00 PM,25-04-2026,Full
+964,kammanahalli,13.02,77.635,4.53,6033,Triple,Co-ed,3,No,Yes,No,No,Yes,No,No,No,Yes,No,Yes,5,Both,No,Yes,Yes,10:00 PM,28-04-2026,Full
+965,hennur,13.05,77.64,5.06,4201,Triple,Boys,2,No,No,No,No,No,No,No,Yes,No,No,Yes,4,Both,Yes,No,Yes,No Curfew,26-04-2026,Full
+966,rt nagar,13.022,77.594,1.48,8074,Double,Co-ed,2,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,3,Non-Veg,No,Yes,Yes,9:00 PM,02-05-2026,Full
+967,yelahanka,13.1,77.596,7.22,8273,Double,Co-ed,3,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,3,Both,Yes,No,Yes,9:00 PM,10-05-2026,Full
+968,horamavu,13.03,77.67,8.12,14581,Single,Boys,3,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,2,Veg,No,Yes,No,9:00 PM,29-04-2026,Available
+969,hennur,13.05,77.64,5.06,7911,Triple,Co-ed,3,Yes,No,No,Yes,No,No,No,No,No,No,Yes,1,Non-Veg,No,No,No,No Curfew,16-05-2026,Full
+970,bagalur,13.12,77.65,11.12,7621,Triple,Girls,2,No,No,Yes,No,No,No,No,No,Yes,No,Yes,2,Veg,Yes,Yes,Yes,No Curfew,08-05-2026,Full
+971,bagalur,13.12,77.65,11.12,15974,Single,Co-ed,2,No,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,1,Non-Veg,Yes,Yes,No,9:00 PM,20-05-2026,Available
+972,hennur,13.05,77.64,5.06,11769,Double,Girls,3,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,4,Veg,Yes,Yes,No,No Curfew,08-05-2026,Full
+973,vidyaranyapura,13.08,77.55,7.22,6106,Double,Girls,3,Yes,No,No,No,No,Yes,No,No,No,No,Yes,4,Non-Veg,No,Yes,Yes,11:00 PM,12-05-2026,Available
+974,hennur,13.05,77.64,5.06,4803,Triple,Co-ed,3,No,No,No,No,No,No,No,No,No,No,Yes,2,Non-Veg,Yes,Yes,Yes,10:00 PM,21-04-2026,Full
+975,hebbal,13.035,77.597,0,5426,Triple,Girls,2,No,No,No,No,No,No,No,Yes,No,No,Yes,1,Veg,Yes,Yes,No,No Curfew,15-05-2026,Available
+976,nagawara,13.04,77.62,2.61,6470,Double,Girls,2,Yes,No,No,No,No,No,No,No,No,No,Yes,3,Both,Yes,No,Yes,11:00 PM,30-04-2026,Available
+977,yelahanka,13.1,77.596,7.22,7160,Triple,Boys,3,No,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,3,Non-Veg,Yes,Yes,No,9:00 PM,06-05-2026,Full
+978,jakkur,13.08,77.6,5.01,7610,Triple,Girls,3,Yes,Yes,No,No,No,No,No,No,No,No,Yes,5,Veg,No,No,No,9:00 PM,19-05-2026,Available
+979,jakkur,13.08,77.6,5.01,11701,Double,Co-ed,3,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,5,Non-Veg,No,No,No,10:00 PM,14-05-2026,Available
+980,hebbal,13.035,77.597,0,10908,Double,Co-ed,3,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,4,Both,No,Yes,Yes,11:00 PM,05-05-2026,Full
+981,kothanur,13.06,77.65,6.5,6674,Triple,Boys,2,No,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,4,Both,No,Yes,No,11:00 PM,21-04-2026,Available
+982,jakkur,13.08,77.6,5.01,17706,Single,Co-ed,2,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,1,Both,No,Yes,No,11:00 PM,28-04-2026,Full
+983,vidyaranyapura,13.08,77.55,7.22,17301,Single,Co-ed,2,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,3,Both,No,No,Yes,No Curfew,14-05-2026,Full
+984,thanisandra,13.05,77.62,3.05,9653,Double,Co-ed,3,Yes,No,No,Yes,No,Yes,No,No,Yes,No,Yes,2,Both,No,Yes,Yes,9:00 PM,09-05-2026,Full
+985,kalyan nagar,13.025,77.64,4.9,14802,Single,Girls,2,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,2,Non-Veg,No,Yes,No,9:00 PM,04-05-2026,Available
+986,jakkur,13.08,77.6,5.01,5470,Triple,Co-ed,2,No,Yes,No,No,Yes,No,No,No,No,No,Yes,5,Veg,Yes,No,Yes,10:00 PM,03-05-2026,Available
+987,yelahanka,13.1,77.596,7.22,9422,Double,Girls,3,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,4,Veg,No,No,No,10:00 PM,29-04-2026,Full
+988,rt nagar,13.022,77.594,1.48,7522,Triple,Boys,2,No,No,No,No,No,No,No,No,No,No,Yes,4,Non-Veg,No,Yes,Yes,10:00 PM,13-05-2026,Full
+989,kodigehalli,13.07,77.58,4.32,14049,Single,Girls,2,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,2,Both,No,Yes,No,10:00 PM,29-04-2026,Available
+990,kothanur,13.06,77.65,6.5,6374,Triple,Boys,3,No,No,No,No,No,No,No,No,Yes,No,Yes,3,Both,Yes,No,No,No Curfew,29-04-2026,Available
+991,hebbal,13.035,77.597,0,19133,Single,Co-ed,2,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,4,Non-Veg,No,No,No,10:00 PM,06-05-2026,Available
+992,kothanur,13.06,77.65,6.5,7680,Triple,Boys,3,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,5,Veg,Yes,No,No,No Curfew,11-05-2026,Available
+993,hebbal,13.035,77.597,0,9679,Single,Girls,3,No,No,No,No,No,No,Yes,Yes,Yes,No,Yes,1,Both,No,No,No,9:00 PM,07-05-2026,Full
+994,nagawara,13.04,77.62,2.61,8233,Double,Girls,2,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,3,Veg,No,Yes,Yes,11:00 PM,10-05-2026,Available
+995,hebbal,13.035,77.597,0,11635,Double,Girls,2,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,4,Veg,Yes,Yes,Yes,No Curfew,07-05-2026,Available
+996,bagalur,13.12,77.65,11.12,19130,Single,Co-ed,2,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,5,Both,No,No,No,11:00 PM,20-05-2026,Available
+997,hebbal,13.035,77.597,0,8235,Double,Girls,3,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,1,Both,No,Yes,Yes,9:00 PM,24-04-2026,Full
+998,jakkur,13.08,77.6,5.01,19085,Single,Boys,3,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,5,Both,Yes,No,Yes,10:00 PM,17-05-2026,Available
+999,vidyaranyapura,13.08,77.55,7.22,6220,Triple,Co-ed,2,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,5,Non-Veg,No,Yes,Yes,No Curfew,26-04-2026,Available
+1000,hebbal,13.035,77.597,0,10549,Double,Boys,2,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Yes,2,Both,Yes,No,No,11:00 PM,03-05-2026,Available
