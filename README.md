@@ -58,80 +58,8 @@ This project provides an intelligent recommendation system that suggests PGs bas
 
 ## ▶️ How to Run
 
-### CLI recommender
-
-From the project root, create and activate a virtual environment.
-
-**macOS/Linux**
-
 ```bash
-python3 -m venv venv
-source venv/bin/activate
-python3 -m pip install -r requirements.txt
-python3 main.py
-```
-
-**Windows PowerShell**
-
-```powershell
-py -m venv venv
-.\venv\Scripts\Activate.ps1
-py -m pip install -r requirements.txt
-py main.py
-```
-
-### Web application
-
-The web application uses PostgreSQL, an ML service, an Express API, and a Vite frontend.
-
-#### 1. Prepare PostgreSQL
-
-Make sure PostgreSQL is running, then create `backend/.env` with:
-
-```env
-DATABASE_URL=postgresql://YOUR_USER@localhost:5432/pg_recommendation
-ML_SERVICE_URL=http://localhost:8000
-PORT=5005
-```
-
-Activate the root virtual environment and migrate the dataset:
-
-```bash
-python3 -m pip install -r requirements.txt
-python3 scripts/migrate_to_db.py
-```
-
-#### 2. Install service dependencies
-
-```bash
-cd ml-service
-python3 -m venv .venv
-source .venv/bin/activate
-python3 -m pip install -r requirements.txt
-deactivate
-
-cd ../backend
-npm install
-
-cd ../frontend
-npm install
-```
-
-On Windows, activate the ML environment with `..\ml-service\.venv\Scripts\Activate.ps1` instead.
-
-#### 3. Start the services
-
-Run each command in a separate terminal from the project root:
-
-```bash
-# Terminal 1: ML service
-ml-service/.venv/bin/uvicorn ml-service.main:app --host 0.0.0.0 --port 8000
-
-# Terminal 2: API backend
-cd backend && npm start
-
-# Terminal 3: frontend
-cd frontend && npm run dev
-```
-
-Open the frontend at <http://localhost:5173/>.
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+python main.py
